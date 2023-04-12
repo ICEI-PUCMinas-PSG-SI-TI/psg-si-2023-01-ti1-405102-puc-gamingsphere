@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
+GamingSphere
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Sistemas de Informação- Manhã
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+
+> Anielle Victoria Assis Souza
+
+> Gustavo Avendanha Gabrich Ferreira
+
+> Pedro Henrique Marques
+
+> Dyogo Huann de Azevedo Rocha
 
 # Estrutura do Documento
 
@@ -36,7 +34,9 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-
+Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
+Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
+O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
 ## Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -64,18 +64,11 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
+O nosso site têm como público alvo principalmente os jogadores de videogames, sejam eles casuais ou mais experientes. Esses jogadores geralmente têm interesse em novidades do mundo dos jogos, como lançamentos, atualizações, promoções e notícias sobre o mercado de games.
+Além disso, nosso site também podem atrair pessoas que estão buscando informações sobre determinado jogo antes de comprá-lo ou baixá-lo. Nesse caso, o público alvo pode ser mais amplo, abrangendo pessoas de diferentes idades e níveis de experiência em jogos.
+Outro grupo de pessoas que pode se interessar pelos sites de divulgação de jogos são aqueles que trabalham na indústria de games, como desenvolvedores, designers, produtores e outros profissionais. Essas pessoas podem buscar informações sobre tendências, tecnologias e novidades do mercado de games para se manterem atualizadas e competitivas.
+Por fim, nosso site também pode ser interessante para empresas que atuam no ramo de games, como fabricantes de consoles, distribuidoras e lojas virtuais. Essas empresas podem buscar parcerias, anúncios e outras formas de divulgação de seus produtos e serviços através desse site.
+Em resumo, o público alvo para o nosso site de divulgação de jogos são principalmente jogadores de videogames, mas também podem abranger pessoas que estão buscando informações sobre jogos, profissionais da indústria de games e empresas que atuam nesse mercado.
 > 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
@@ -91,13 +84,7 @@
 
 ## Personas
 
-> Nome: Enzo Ferreira de Olieira 
-> Idade: 17 
-> Hobby: Seu hobby é passar tempo joando videogames com seus amigos 
-> Trabalho: Atualmente cursa o terceiro ano do ensino médio 
-> Sonhos: Tem como objetivo iniciar um curso relacionado a área de tecnoloia 
-
-Nome
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
 > você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
