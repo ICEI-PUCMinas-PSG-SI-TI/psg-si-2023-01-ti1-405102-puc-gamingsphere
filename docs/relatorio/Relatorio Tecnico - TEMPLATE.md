@@ -91,7 +91,13 @@
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Nome: Enzo Ferreira de Olieira 
+> Idade: 17 
+> Hobby: Seu hobby é passar tempo joando videogames com seus amigos 
+> Trabalho: Atualmente cursa o terceiro ano do ensino médio 
+> Sonhos: Tem como objetivo iniciar um curso relacionado a área de tecnoloia 
+
+Nome
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
 > você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
