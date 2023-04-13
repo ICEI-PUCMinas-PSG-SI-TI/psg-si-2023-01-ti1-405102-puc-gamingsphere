@@ -159,6 +159,48 @@ Fernado é um homem muito ocupado com o trabalho e os estudos. Gosta de ler, des
 Objetivo  
 
 Fernando pretende melhorar a sua carreira como desenvolvedor de software, indo para uma empresa bem-sucedida, como o Google. E ter uma carreira de sucesso e conquistas. 
+
+
+
+Perfil 
+
+Igor e um garoto de 17 anos de idade e está estudando no 1º ano do ensino médio ele gosta de assistir animes na plataforma digital do Better Animes. Os jogos preferidos de Igor e My Hero One’s  Justice 2, Demon Slayer: Kimetsu no Yaiba-The Hinokami Chronicles e Inazuma Eleven Go Strikers 2013. Ele e um garoto com muita energia que gosta de ler mangas e andar com seu cachorro  
+
+Estilo de vida 
+
+Igor tem como hobby o esporte. Gosta de jogar futebol, hóquei e também nadar ele tem uma alimentação saudável. Ele ajuda seus pais com a tarefa de casa lavando a louça e limpando a casa, e organizado e não gosta de deixar coisas pra última hora. Ele criou o hábito de tomar banhos gelados pois na sua cidade o clima e de muito calor quando chega o inverno Igor gosta de sair com os colegas para ir ao cinema. 
+
+Objetivo 
+
+Des de criança Igor e interessado em livros e desenhos orientais. Objetivo de Igor e se tonar um grande escritor de manga. E talvez um dia produzir grandes animes.
+
+
+
+Perfil 
+
+Luana tem 31 anos e é formada ciências da computação ela e interessada em jogos espaciais como Observation, Destiny 2 e Mass Effect : Legendary Edition  . Ela é inteligente e extrovertida gosta de acompanhar canais de televisão como Discovery Channel, Animal Planet e National Geographic . 
+
+Estilo de vida 
+
+Luana está constantemente inventando é inovando sempre tendo novas ideia e teorias.  Ela faz estudos e pesquisa diários. Procurando se informar cada vez mais em diferentes tipos de conhecimento o seu leque de informações o torna quase uma pesquisadora científica.   
+
+Objetivo 
+
+O objetivo de Luana depois que se formou na área de ciências da computação é estudar astronomia uma ciência natural que estuda corpos celestes e fenômenos que se originam fora da atmosfera da terra. Preocupada com a evolução, a física e a química de objetos celestes, bem como a formação e o desenvolvimento do universo. A astronomia e uma das mais antigas ciências.
+
+
+
+Perfil  
+
+Leonardo é um homem de 21 ano, que atualmente está cursando o 6º período da faculdade de Engenharia da computação. Ele está em busca de novas tecnologias e produtos inovadores. Sua vida é bastante calma e tranquila, pois, o mesmo busca por inovações. Leonardo é um homem de espírito livre, extrovertid0. Aos finais de semana, Leonardo e sua família sempre busca almoçar fora de casa. Leonardo reside no bairro bastante movimento em seu apartamento de luxo com cobertura, com uma bela vista para a cidade. Sempre acompanhou as novidades que a ciência, jogos, o mundo trás para si. Frequenta sempre a casa de amigos, baladas, bares, shopping, e ama ajudar o próximo. Ele está sempre bem-vestido e cuidado. Tem como o espanhol a línguas nativa, fala inglês fluentemente, mas pretende estudar e aprimorar outras línguas.   
+
+Estilo de vida  
+
+Leonardo e uma cara que faz caminhada diariamente e gosta de ir à academia, logo de manhã ele toma uma água e alonga o corpo. Ele costuma tomar banhos em piscina de gelo para limpar a mente e aliviar as tensões do corpo. Leonardo se preocupa muito com o bem-estar por isso se cuida constantemente.   
+
+Objetivo  
+
+O objetivo de Leonardo e construir uma família. E ter uma condição de dar uma educação boa pros seus filhos e familiares. Construindo uma família constituída por integridade, honestidade e amor. 
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
