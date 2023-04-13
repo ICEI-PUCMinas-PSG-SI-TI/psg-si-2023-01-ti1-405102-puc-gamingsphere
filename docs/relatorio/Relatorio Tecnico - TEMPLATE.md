@@ -39,31 +39,18 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
->Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
+> Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
+O principal problema a ser resolvido ao criar um site como GamingSphere é promover os jogos de forma eficaz e se envolver com a comunidade de jogos. O foco principal do site é apresentar os novos lancamentos, com a finalidade de ajudar novos desenvolvedores a se destacarem no amplo mercado de jogos e alavancarem a sua carreira, o site tambem apresenta jogos de diferentes generos, para que cada pilar da comunidade encontre os seus jogos favoritos com maior facilidade.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do GamingSphere é promover e mostrar os melhores e mais recentes jogos para a comunidade de jogos. O site oferece uma plataforma para desenvolvedores de jogos mostrarem seus jogos para um público amplo e diversificado. Ao fornecer análises abrangentes e informativas, artigos de notícias e gameplay, o GamingSphere visa ajudar os usuários a tomar decisões informadas sobre quais jogos comprar e jogar. Além disso, o site apresenta uma forte presença na mídia social, com envolvimento ativo em várias plataformas para manter os usuários atualizados sobre os últimos desenvolvimentos no mundo dos jogos. O objetivo final do site é se tornar o destino preferido dos jogadores, fornecendo uma riqueza de informações, recursos e engajamento da comunidade que mantém os usuários envolvidos e voltando para mais.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
