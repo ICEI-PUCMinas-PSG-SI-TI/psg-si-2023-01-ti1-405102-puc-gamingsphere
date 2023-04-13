@@ -39,7 +39,7 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-> Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
+Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
 
