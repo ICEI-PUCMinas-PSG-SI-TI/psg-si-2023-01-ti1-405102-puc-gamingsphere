@@ -1,15 +1,14 @@
 # Informações do Projeto
-`Puc GamingSpehre`  
+`Puc-GamingSpehre`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PUC-GamingSphere é um projeto de um site, que visa criar um ambiente de divulgações de jogos ou esfera de jogos na PUC.
 
 `Sistema de Informação` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A Pontifícia Universidade Católica (PUC) oferece o curso de graduação em Sistemas de Informação no período matutino. O curso tem como objetivo formar profissionais capacitados para desenvolver, gerenciar e implantar sistemas de informação em organizações de diversos setores.
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -39,7 +38,7 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-> Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
+Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
 
@@ -75,11 +74,11 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 
 ## Personas
 
-> Nome: Enzo Ferreira de Olieira 
-> Idade: 18
-> Hobby: Seu hobby é passar tempo jogando videogames com seus amigos
-> Trabalho: Atualmente cursa o terceiro ano do ensino médio
-> Sonhos: Tem como objetivo iniciar um curso relacionado a área de tecnoloia 
+Nome: Enzo Ferreira de Olieira 
+Idade: 18
+Hobby: Seu hobby é passar tempo jogando videogames com seus amigos
+Trabalho: Atualmente cursa o terceiro ano do ensino médio
+Sonhos: Tem como objetivo iniciar um curso relacionado a área de tecnoloia 
 
 Nome: Fernando Augusto de Paula
 idade: 26
@@ -171,10 +170,18 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID     | Descrição do Requisito  | Prioridade |
+|------ |-----------------------------------------|----|
+|RF-001 | O site permitir que os usuários cadastrem-se | ALTA | 
+|RF-002 | O site permitir a criação uma conta para poderem acessar conteúdo e comentários | ALTA |
+|RF-003 | O site permitir que os usuários avaliem e comentem sobre os jogos  | ALTA |
+|RF-004 | O site poderá ter um espaço ou comunidade para que os usuários possam interagir entre si  | ALTA |
+|RF-005 | O site permitir que os usuários pesquisem e filtrem a lista de jogos de acordo com seus interesses e preferências | MÉDIA |
+|RF-006 | O site informará quais plataformas são suportadas para cada jogo  | MÉDIA |
+|RF-007 | O site apresentara uma lista incluindo informações como descrição, imagens e avaliações  | MÉDIA |
+|RF-008 | O site permitir que os usuários pesquisem e filtrem a lista de jogos de acordo com seus interesses e preferências | MÉDIA |
+|RF-009 | O site fornecera recomendações de jogos personalizadas para usuários, com base em seus históricos de compras e avaliações  | BAIXA |
+|RF-010 | Exibir comentários registrados juntamente com a notícia exibida| BAIXA |
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
@@ -186,7 +193,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para da criação do site GamingSphere, foi necessário um time em desenvolvimento com habilidades diversas, entre as ferramentas nas quais utilizamos foram o Figma e o Trello - principais tecnologias utilizadas no projeto. O Figma é uma ferramenta de design de interface do usuário que permite criar e compartilhar protótipos de design, enquanto o Trello foi ferramenta de gerenciamento de projetos que ajuda as equipes a organizar e acompanhar o progresso das tarefas. No entanto, ainda como início do projeto, não incluímos nenhuma linguagem de programação como HTML, CSS e JavaScript, juntamente com os frameworks.
+
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 ## Wireframes
