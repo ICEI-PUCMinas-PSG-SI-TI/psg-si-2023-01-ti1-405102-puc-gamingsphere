@@ -1,5 +1,7 @@
 # PUC-GamingSphere
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O GamingSphere pretende fornecer uma plataforma para divulgação de jogos para todos os interessados em jogos eletrônicos. Em um espaço amplo e diversificado, fornecesses aos usuários análises abrangentes e informativas, artigos de notícias e gameplay para ajudá-los a tomar decisões informadas sobre quais jogos comprar e jogar.
+
+O objetivo é tornar o ambiente preferido dos jogadores, fornecendo uma riqueza de informações, recursos e engajamento da comunidade que mantém os usuários envolvidos e atualizados. Isso significa que o GamingSphere busca criar uma comunidade ativa de jogadores que se envolvam com o site e compartilhem suas experiências e opiniões com outros usuários.
 
 ## Alunos integrantes da equipe
 
