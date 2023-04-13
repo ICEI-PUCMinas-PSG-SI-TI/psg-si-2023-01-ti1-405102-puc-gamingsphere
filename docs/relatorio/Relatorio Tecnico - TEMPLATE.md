@@ -67,10 +67,64 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+Especificação do Projeto 
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+ 
+
+Essa parte do documento contém todos os itens que foram usados para criar esse trabalho 
+
+ 
+
+1    Word 
+
+O Microsoft Word pode ser usado para produzir trabalhos escolares e textos acadêmicos. Com recursos comparáveis a outros editores de texto modernos, suporta também a adição e edição básica de imagens e formatação de texto. 
+
+Ele foi usado para criar os textos do trabalho. 
+ 
+
+ 
+
+2   Canva 
+
+Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais. Está disponível online e em dispositivos móveis e integra milhões de imagens, fontes, modelos e ilustrações. 
+
+Ele foi usado para cria o layout da História e das Personas. 
+
+ 
+
+ 
+
+3   Figma  
+
+Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows. O aplicativo Figma Mirror é um sistema de prototipagem que espelha o que está sendo feito no computador para o smartphone Android e/ou iOS, permitindo a simulação do vetor criado no computador como um aplicativo ou página da web. O Figma é um software focado no desenvolvimento de sistemas de design gráfico, prototipagem de interface gráfica de usuário e desenvolvimento de UI/UX (user interface experience ou experiência da interface com o usuário) 
+
+Ele foi usado para criar as telas de User Flow e Wirefreme. 
+
+ 
+
+ 
+
+4   GitHub 
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
+
+Ele foi usado para hospedar o trabalho. 
+
+ 
+
+ 
+
+5 SmashingLogo 
+
+Ele foi usado para criar o Logo. 
+
+ 
+
+ 
+
+6   This person does not exist 
+
+Ele foi usado para criação de imagens de pessoas. 
 
 ## Personas
 
