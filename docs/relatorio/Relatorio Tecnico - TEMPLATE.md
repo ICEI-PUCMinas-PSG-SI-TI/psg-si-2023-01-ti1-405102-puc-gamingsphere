@@ -39,7 +39,7 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
+> Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
 
@@ -113,17 +113,53 @@ Sonhos: Seu sonho é ficar famosa na plataorma de lives twitch
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+ENZO
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+Perfil  
 
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> da sua aplicação. Utilize as personas criadas como atores e, se for o caso, um administrador. 
+Enzo é um garoto de 18 anos cujo objetivo é iniciar um curso relacionado a área de tecnologia. Ele gosta de jogar no tempo livre jogos como League Of Legends , Valorant , Overwatch e Minecraft . Ele gosta de interagir e trocar ideias com seus colegas e conversar online via ligações e mensagens pelo Discord, assim podendo passar horas e horas na frente do computador. Enzo e um garoto bem ligado com a internet, ele gosta de ler informações ligadas a tecnologia como lançamentos, eventos e campeonatos. Ele curte assistir o campeonato brasileiro de League Of Legends , e a principal competição do jogo eletrônico League Of Leagends no Brasil, administrada por sua desenvolvedora Riot Games. 
+
+Estilo de vida   
+
+Enzo é um jovem que custa frequentar bares, clubes com seus amigos e familiares, gosta de estar ligado em acompanhar as principais notícias do mundo game, não costuma praticar qualquer tipo de esporte, prefere ficar na frente das telas de computadores e televisões. Devido as suas constâncias e exageros se expondo à luz da tela de smartphone, Enzo necessitou o uso de aparelhos ocular.  
+
+Objetivo  
+
+Enzo, tem como objetivo iniciar e formar-se na área de tecnologia, além de viajar para outros países, consequentemente está cursando inglês para aperfeiçoar os seus conhecimentos na linguagem estrangeira. 
+
+
+
+
+TALITA
+
+Perfil  
+
+Talita tem 16 anos e está cursando o primeiro ano do ensino médio e tem como objetivo se tornar uma influenciadora. Ela é uma streamer que faz Live através da plataforma twittch, compartilhando imagens, vídeos e transmissões em tempo real. Joga League Of Legends com os seus companheiros de equipe com o objetivo inicial de levar a sua equipe pra uma liga. Talita gosta de entretenimento como assistir desenhos, filmes e seriados de televisão.  
+
+Estilo de vida    
+
+Talita está sempre ligada em suas redes sociais, está sempre comentando e compartilhando coisas na internet. É uma jovem legal e inteligente, adora interagir com os outros na internet. E quando não está online ela pode ser um pouco introvertida. 
+
+Objetivo  
+
+Talita tem o sonho de se tornar influencer digital em diversas plataformas, e ser conhecida internacionalmente como uma celebridade do mundo dos gamers, levando esse cenário em diversos locais. 
+
+
+
+
+FERNANDO
+
+Perfil  
+
+Fernando tem 26 anos e trabalha como desenvolvedor júnior em uma companhia de software. Gosta de se reunir com os amigos para jogar online. Fernando tem como as redes sociais mais usadas o LinkedIn, Facebook, Instagram e Twitter. Geralmente, ele é o tipo de homem que está sempre disposto a sair para comemorar com os colegas. Trabalha bem em grupo e está sempre à procura de informações e conhecimento sobre tecnologia.     
+
+Estilo de vida   
+
+Fernado é um homem muito ocupado com o trabalho e os estudos. Gosta de ler, desenhar e escrever. Ele também gosta de correr e fazer trilhas em lugares distantes da cidade, como rios, riachos, cachoeiras e florestas.   
+
+Objetivo  
+
+Fernando pretende melhorar a sua carreira como desenvolvedor de software, indo para uma empresa bem-sucedida, como o Google. E ter uma carreira de sucesso e conquistas. 
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
