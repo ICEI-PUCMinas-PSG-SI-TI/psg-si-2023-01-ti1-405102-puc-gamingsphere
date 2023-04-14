@@ -266,11 +266,5 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
-
-
+Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado. Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
+O processo de criação deste um site para divulgação de jogos  apresentou algumas dificuldades ao longo do caminho. Ao decorrer do projeto, algumas das principais barreiras que puderam ser vistas incluíram a definição do público-alvo, a seleção dos jogos que poderiam ser divulgados, a organização do conteúdo, a escolha das melhores estratégias de layout para o site , a otimização do site para os mecanismos de busca, entre outras. Para superar esses desafios, é importante ter um planejamento bem estruturado desde o início, com a definição clara dos objetivos e metas do site.
