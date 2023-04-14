@@ -107,6 +107,19 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
  
 ## Histórias de Usuários
 
+<a href="https://ibb.co/SmJS1RX"><img src="https://i.ibb.co/1Xbcp8f/4.png" alt="4" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+<a href="https://ibb.co/8XkDjwW"><img src="https://i.ibb.co/t3RMb67/5.png" alt="5" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+<a href="https://ibb.co/n1g7DnV"><img src="https://i.ibb.co/Ks029LQ/7.png" alt="7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+<a href="https://ibb.co/LNcH5nT"><img src="https://i.ibb.co/3RjQzBx/8.png" alt="8" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+<a href="https://ibb.co/6JN3TPS"><img src="https://i.ibb.co/x83pBjb/9.png" alt="9" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+
+
 ENZO
 
 Perfil  
