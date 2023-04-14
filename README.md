@@ -17,7 +17,7 @@ O objetivo é tornar o ambiente preferido dos jogadores, fornecendo uma riqueza 
 
 
 ## Quadro de tarefas
-[Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.](https://trello.com/b/OfjwnffL/tiaw-gs)
+https://trello.com/invite/b/OfjwnffL/ATTI5d270467d91dac5306d1466b3e79c1314731CD8B/tiaw-gs
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
