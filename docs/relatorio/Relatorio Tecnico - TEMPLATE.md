@@ -160,7 +160,21 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+<a href="https://ibb.co/ZxCM2tR"><img src="https://i.ibb.co/vk8jXgC/Home-Page.png" alt="Home-Page" border="0"></a><br /><br />
+
+<a href="https://ibb.co/y4BTqKZ"><img src="https://i.ibb.co/BnKDBvQ/Pesquisa.png" alt="Pesquisa" border="0"></a><br /><br />
+
+<a href="https://ibb.co/64KhJPP"><img src="https://i.ibb.co/dQN9J22/Noticia.png" alt="Noticia" border="0"></a><br /> <br />
+
+<a href="https://ibb.co/LgW29b1"><img src="https://i.ibb.co/Sm89VWB/favoritos.png" alt="favoritos" border="0"></a><br /><br />
+
+<a href="https://ibb.co/Lh5JnTr"><img src="https://i.ibb.co/0VtFh0K/review.png" alt="review" border="0"></a><br /> <br />
+
+<a href="https://ibb.co/LdpyXtg"><img src="https://i.ibb.co/F471LwY/coment-rio.png" alt="coment-rio" border="0"></a><br /><br />
+
+<a href="https://ibb.co/y8j11YD"><img src="https://i.ibb.co/9q5LLVJ/img.png" alt="img" border="0"></a><br /><<br />
+
+<a href="https://ibb.co/3kT5XPf"><img src="https://i.ibb.co/25F02p8/SobreN.png" alt="SobreN" border="0"></a><br /><br />
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -180,7 +194,7 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
+<a href="https://ibb.co/9yw0YJV"><img src="https://i.ibb.co/QY8VmZC/User-Flow.png" alt="User-Flow" border="0"></a><br /><br />
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
