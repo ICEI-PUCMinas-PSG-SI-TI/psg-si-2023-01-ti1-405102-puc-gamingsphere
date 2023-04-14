@@ -164,19 +164,22 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 <a href="https://ibb.co/y4BTqKZ"><img src="https://i.ibb.co/BnKDBvQ/Pesquisa.png" alt="Pesquisa" border="0"></a><br /><br />
 
-<a href="https://ibb.co/64KhJPP"><img src="https://i.ibb.co/dQN9J22/Noticia.png" alt="Noticia" border="0"></a><br /> <br />
-
 <a href="https://ibb.co/LgW29b1"><img src="https://i.ibb.co/Sm89VWB/favoritos.png" alt="favoritos" border="0"></a><br /><br />
-
-<a href="https://ibb.co/Lh5JnTr"><img src="https://i.ibb.co/0VtFh0K/review.png" alt="review" border="0"></a><br /> <br />
 
 <a href="https://ibb.co/LdpyXtg"><img src="https://i.ibb.co/F471LwY/coment-rio.png" alt="coment-rio" border="0"></a><br /><br />
 
+<a href="https://ibb.co/64KhJPP"><img src="https://i.ibb.co/dQN9J22/Noticia.png" alt="Noticia" border="0"></a><br /> <br />
+
+<a href="https://ibb.co/Lh5JnTr"><img src="https://i.ibb.co/0VtFh0K/review.png" alt="review" border="0"></a><br /> <br />
+
+<a href="https://ibb.co/vsJTJ1v"><img src="https://i.ibb.co/xmMBMh8/Categoria.png" alt="Categoria" border="0"></a><br /><br />
+
 <a href="https://ibb.co/y8j11YD"><img src="https://i.ibb.co/9q5LLVJ/img.png" alt="img" border="0"></a><br /><<br />
+
+<a href="https://ibb.co/54tJkh2"><img src="https://i.ibb.co/DWsjYfL/salvaar.png" alt="salvaar" border="0"></a><br /><br />
 
 <a href="https://ibb.co/3kT5XPf"><img src="https://i.ibb.co/25F02p8/SobreN.png" alt="SobreN" border="0"></a><br /><br />
 
-<a href="https://ibb.co/54tJkh2"><img src="https://i.ibb.co/DWsjYfL/salvaar.png" alt="salvaar" border="0"></a><br /><br />
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -188,10 +191,6 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > - [Figma](https://www.figma.com/)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
 
 
 ## Mapa de navegação
@@ -201,9 +200,6 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
 
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
 Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado. Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
