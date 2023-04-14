@@ -128,23 +128,11 @@ Ele foi usado para criação de imagens de pessoas.
 
 ## Personas
 
-Nome: Enzo Ferreira de Olieira 
-Idade: 18
-Hobby: Seu hobby é passar tempo jogando videogames com seus amigos
-Trabalho: Atualmente cursa o terceiro ano do ensino médio
-Sonhos: Tem como objetivo iniciar um curso relacionado a área de tecnoloia 
+<a href="https://ibb.co/xFZMZz1"><img src="https://i.ibb.co/jJtLt3y/Persona1.png" alt="Persona1" border="0"></a>
 
-Nome: Fernando Augusto de Paula
-idade: 26
-Hobby: Tem como hobby se reunir com os amigos para uma competição de jogos
-Trabalho: Fernando trabalha como desenvolvedor junior em uma impresa de softwere
-Sonhos: Seu sonho atualmente é seguir na carreira de tecnologia 
+<a href="https://ibb.co/R4bmbQ5"><img src="https://i.ibb.co/Fq3M38P/Persona2.png" alt="Persona2" border="0"></a>
 
-Nome: Talita silva meireles
-Idade: 16
-Hobby: Gosta de jogar League of Legends
-Trabalho: Etá cursando primeiro ano do ensino mèdio
-Sonhos: Seu sonho é ficar famosa na plataorma de lives twitch
+<a href="https://ibb.co/TWzzk6K"><img src="https://i.ibb.co/MBqqsr8/Persona3.png" alt="Persona3" border="0"></a>
 
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
@@ -160,8 +148,7 @@ Sonhos: Seu sonho é ficar famosa na plataorma de lives twitch
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
+
  
 
 ## Histórias de Usuários
@@ -325,5 +312,11 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
-Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado.  Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
-O processo de criação deste site ,apresentou algumas dificuldades ao longo do caminho. Ao decorrer do projeto, algumas das principais barreiras que puderam ser vistas incluíram a definição do público-alvo, a seleção dos jogos que poderiam ser divulgados, a organização do conteúdo, a escolha das melhores estratégias de layout para o site , a otimização do site para os mecanismos de busca, entre outras. Para superar esses desafios, é importante ter um planejamento bem estruturado desde o início, com a definição clara dos objetivos e metas futuras.
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
+> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
+> as principais dificuldes encontradas e como foi possível contorná-las. 
+
+
