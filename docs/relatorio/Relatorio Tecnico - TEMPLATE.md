@@ -80,6 +80,8 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 
 6. GitHub - GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. Ele foi usado para hospedar o trabalho.
 
+7. Trello - Trello utiliza o paradigma Kanban para gerenciamento de projetos e se tornou popular ao ser utilizada pela Toyota. Os projetos são representados por quadros (boards), que contêm listas com várias tarefas. Cada tarefa é representada por meio de cartões criados dentro das listas. Cartões podem ser movidos, copiados ou compartilhados entre as listas, de modo a alterar seu progresso. Usuários podem ser adicionados nos cartões. Ele foi usado para colocar a evolução do projeto. 
+
 
 ## Personas
 
