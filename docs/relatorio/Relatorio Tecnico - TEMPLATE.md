@@ -107,108 +107,19 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
  
 ## Histórias de Usuários
 
-<a href="https://ibb.co/SmJS1RX"><img src="https://i.ibb.co/1Xbcp8f/4.png" alt="4" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+<a href="https://ibb.co/SmJS1RX"><img src="https://i.ibb.co/1Xbcp8f/4.png" alt="4" border="0"></a><br /> </a><br />
 
-<a href="https://ibb.co/8XkDjwW"><img src="https://i.ibb.co/t3RMb67/5.png" alt="5" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+<a href="https://ibb.co/8XkDjwW"><img src="https://i.ibb.co/t3RMb67/5.png" alt="5" border="0"></a><br /></a><br />
 
-<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0"></a><br /> </a><br />
 
-<a href="https://ibb.co/n1g7DnV"><img src="https://i.ibb.co/Ks029LQ/7.png" alt="7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+<a href="https://ibb.co/n1g7DnV"><img src="https://i.ibb.co/Ks029LQ/7.png" alt="7" border="0"></a><br /> </a><br />
 
-<a href="https://ibb.co/LNcH5nT"><img src="https://i.ibb.co/3RjQzBx/8.png" alt="8" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
+<a href="https://ibb.co/LNcH5nT"><img src="https://i.ibb.co/3RjQzBx/8.png" alt="8" border="0"></a><br /> </a><br />
 
-<a href="https://ibb.co/6JN3TPS"><img src="https://i.ibb.co/x83pBjb/9.png" alt="9" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem logo</a><br />
-
-
-ENZO
-
-Perfil  
-
-Enzo é um garoto de 18 anos cujo objetivo é iniciar um curso relacionado a área de tecnologia. Ele gosta de jogar no tempo livre jogos como League Of Legends , Valorant , Overwatch e Minecraft . Ele gosta de interagir e trocar ideias com seus colegas e conversar online via ligações e mensagens pelo Discord, assim podendo passar horas e horas na frente do computador. Enzo e um garoto bem ligado com a internet, ele gosta de ler informações ligadas a tecnologia como lançamentos, eventos e campeonatos. Ele curte assistir o campeonato brasileiro de League Of Legends , e a principal competição do jogo eletrônico League Of Leagends no Brasil, administrada por sua desenvolvedora Riot Games. 
-
-Estilo de vida   
-
-Enzo é um jovem que custa frequentar bares, clubes com seus amigos e familiares, gosta de estar ligado em acompanhar as principais notícias do mundo game, não costuma praticar qualquer tipo de esporte, prefere ficar na frente das telas de computadores e televisões. Devido as suas constâncias e exageros se expondo à luz da tela de smartphone, Enzo necessitou o uso de aparelhos ocular.  
-
-Objetivo  
-
-Enzo, tem como objetivo iniciar e formar-se na área de tecnologia, além de viajar para outros países, consequentemente está cursando inglês para aperfeiçoar os seus conhecimentos na linguagem estrangeira. 
+<a href="https://ibb.co/6JN3TPS"><img src="https://i.ibb.co/x83pBjb/9.png" alt="9" border="0"></a><br /> </a><br />
 
 
-
-
-TALITA
-
-Perfil  
-
-Talita tem 16 anos e está cursando o primeiro ano do ensino médio e tem como objetivo se tornar uma influenciadora. Ela é uma streamer que faz Live através da plataforma twittch, compartilhando imagens, vídeos e transmissões em tempo real. Joga League Of Legends com os seus companheiros de equipe com o objetivo inicial de levar a sua equipe pra uma liga. Talita gosta de entretenimento como assistir desenhos, filmes e seriados de televisão.  
-
-Estilo de vida    
-
-Talita está sempre ligada em suas redes sociais, está sempre comentando e compartilhando coisas na internet. É uma jovem legal e inteligente, adora interagir com os outros na internet. E quando não está online ela pode ser um pouco introvertida. 
-
-Objetivo  
-
-Talita tem o sonho de se tornar influencer digital em diversas plataformas, e ser conhecida internacionalmente como uma celebridade do mundo dos gamers, levando esse cenário em diversos locais. 
-
-
-
-
-FERNANDO
-
-Perfil  
-
-Fernando tem 26 anos e trabalha como desenvolvedor júnior em uma companhia de software. Gosta de se reunir com os amigos para jogar online. Fernando tem como as redes sociais mais usadas o LinkedIn, Facebook, Instagram e Twitter. Geralmente, ele é o tipo de homem que está sempre disposto a sair para comemorar com os colegas. Trabalha bem em grupo e está sempre à procura de informações e conhecimento sobre tecnologia.     
-
-Estilo de vida   
-
-Fernado é um homem muito ocupado com o trabalho e os estudos. Gosta de ler, desenhar e escrever. Ele também gosta de correr e fazer trilhas em lugares distantes da cidade, como rios, riachos, cachoeiras e florestas.   
-
-Objetivo  
-
-Fernando pretende melhorar a sua carreira como desenvolvedor de software, indo para uma empresa bem-sucedida, como o Google. E ter uma carreira de sucesso e conquistas. 
-
-
-
-Perfil 
-
-Igor e um garoto de 17 anos de idade e está estudando no 1º ano do ensino médio ele gosta de assistir animes na plataforma digital do Better Animes. Os jogos preferidos de Igor e My Hero One’s  Justice 2, Demon Slayer: Kimetsu no Yaiba-The Hinokami Chronicles e Inazuma Eleven Go Strikers 2013. Ele e um garoto com muita energia que gosta de ler mangas e andar com seu cachorro  
-
-Estilo de vida 
-
-Igor tem como hobby o esporte. Gosta de jogar futebol, hóquei e também nadar ele tem uma alimentação saudável. Ele ajuda seus pais com a tarefa de casa lavando a louça e limpando a casa, e organizado e não gosta de deixar coisas pra última hora. Ele criou o hábito de tomar banhos gelados pois na sua cidade o clima e de muito calor quando chega o inverno Igor gosta de sair com os colegas para ir ao cinema. 
-
-Objetivo 
-
-Des de criança Igor e interessado em livros e desenhos orientais. Objetivo de Igor e se tonar um grande escritor de manga. E talvez um dia produzir grandes animes.
-
-
-
-Perfil 
-
-Luana tem 31 anos e é formada ciências da computação ela e interessada em jogos espaciais como Observation, Destiny 2 e Mass Effect : Legendary Edition  . Ela é inteligente e extrovertida gosta de acompanhar canais de televisão como Discovery Channel, Animal Planet e National Geographic . 
-
-Estilo de vida 
-
-Luana está constantemente inventando é inovando sempre tendo novas ideia e teorias.  Ela faz estudos e pesquisa diários. Procurando se informar cada vez mais em diferentes tipos de conhecimento o seu leque de informações o torna quase uma pesquisadora científica.   
-
-Objetivo 
-
-O objetivo de Luana depois que se formou na área de ciências da computação é estudar astronomia uma ciência natural que estuda corpos celestes e fenômenos que se originam fora da atmosfera da terra. Preocupada com a evolução, a física e a química de objetos celestes, bem como a formação e o desenvolvimento do universo. A astronomia e uma das mais antigas ciências.
-
-
-
-Perfil  
-
-Leonardo é um homem de 21 ano, que atualmente está cursando o 6º período da faculdade de Engenharia da computação. Ele está em busca de novas tecnologias e produtos inovadores. Sua vida é bastante calma e tranquila, pois, o mesmo busca por inovações. Leonardo é um homem de espírito livre, extrovertid0. Aos finais de semana, Leonardo e sua família sempre busca almoçar fora de casa. Leonardo reside no bairro bastante movimento em seu apartamento de luxo com cobertura, com uma bela vista para a cidade. Sempre acompanhou as novidades que a ciência, jogos, o mundo trás para si. Frequenta sempre a casa de amigos, baladas, bares, shopping, e ama ajudar o próximo. Ele está sempre bem-vestido e cuidado. Tem como o espanhol a línguas nativa, fala inglês fluentemente, mas pretende estudar e aprimorar outras línguas.   
-
-Estilo de vida  
-
-Leonardo e uma cara que faz caminhada diariamente e gosta de ir à academia, logo de manhã ele toma uma água e alonga o corpo. Ele costuma tomar banhos em piscina de gelo para limpar a mente e aliviar as tensões do corpo. Leonardo se preocupa muito com o bem-estar por isso se cuida constantemente.   
-
-Objetivo  
-
-O objetivo de Leonardo e construir uma família. E ter uma condição de dar uma educação boa pros seus filhos e familiares. Construindo uma família constituída por integridade, honestidade e amor. 
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
