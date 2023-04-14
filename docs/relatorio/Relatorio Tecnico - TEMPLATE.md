@@ -176,6 +176,8 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 <a href="https://ibb.co/3kT5XPf"><img src="https://i.ibb.co/25F02p8/SobreN.png" alt="SobreN" border="0"></a><br /><br />
 
+<a href="https://ibb.co/54tJkh2"><img src="https://i.ibb.co/DWsjYfL/salvaar.png" alt="salvaar" border="0"></a><br /><br />
+
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
 > páginas. Um wireframe web é uma ilustração semelhante ao
