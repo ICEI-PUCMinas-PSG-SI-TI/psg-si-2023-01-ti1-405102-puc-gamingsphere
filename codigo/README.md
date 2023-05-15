@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-
+  
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -102,7 +102,7 @@
 </body>
 </html>
   
-    <style>
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
 
 /*Cabeçalho*/
