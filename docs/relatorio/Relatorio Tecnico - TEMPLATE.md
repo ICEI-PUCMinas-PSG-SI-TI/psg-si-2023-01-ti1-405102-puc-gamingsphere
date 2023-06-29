@@ -44,7 +44,10 @@ O site oferece uma plataforma para que os desenvolvedores possam divulgar inform
 
 ## Problema
 
-O principal problema a ser resolvido ao criar um site como GamingSphere é promover os jogos de forma eficaz e se envolver com a comunidade de jogos. O foco principal do site é apresentar os novos lancamentos, com a finalidade de ajudar novos desenvolvedores a se destacarem no amplo mercado de jogos e alavancarem a sua carreira, o site tambem apresenta jogos de diferentes generos, para que cada pilar da comunidade encontre os seus jogos favoritos com maior facilidade.
+
+Ao criar o GamingSphere, um site com o objetivo de promover jogos de forma eficaz e se envolver com a comunidade de jogos, é importante considerar alguns desafios principais. Tais como trazer um conteúdo atraente e informativo para o público alvo, Um dos principais pontos é criar um conteúdo envolvente e informativo. 
+O design do site deve ser intuitivo e agradável aos usuários. É importante garantir que a navegação seja fácil e que os visitantes possam encontrar facilmente os jogos que procuram. Interação com a comunidade: É fundamental envolver ativamente a comunidade de jogadores. Isso pode ser feito por meio de recursos interativos, como fóruns de discussão.
+
 
 ## Objetivos
 
