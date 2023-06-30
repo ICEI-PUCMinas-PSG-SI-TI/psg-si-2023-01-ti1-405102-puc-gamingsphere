@@ -38,6 +38,7 @@ A Pontifícia Universidade Católica (PUC) oferece o curso de graduação em Sis
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
+
 Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a criação de um site para divulgação de jogos se tornou uma necessidade para todo o ramo.
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
@@ -57,6 +58,7 @@ O objetivo do GamingSphere é promover e mostrar os melhores e mais recentes jog
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Público-Alvo
+
 Nosso site têm como público alvo principalmente os jogadores de videogames, sejam eles casuais ou mais experientes. Esses jogadores geralmente têm interesse em novidades do mundo dos jogos, como lançamentos, atualizações, promoções e notícias sobre o mercado de games.
 Além disso, nosso site também podem atrair pessoas que estão buscando informações sobre determinado jogo antes de comprá-lo ou baixá-lo. Nesse caso, o público alvo pode ser mais amplo, abrangendo pessoas de diferentes idades e níveis de experiência em jogos.
 Outro grupo de pessoas que pode se interessar pelo site são aqueles que trabalham na indústria de games, como desenvolvedores, designers, produtores e outros profissionais. Essas pessoas podem buscar informações sobre tendências, tecnologias e novidades do mercado de games para se manterem atualizadas e competitivas.
@@ -207,5 +209,6 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 
 # Conclusões
+
 Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado. Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
 O processo de criação deste um site para divulgação de jogos  apresentou algumas dificuldades ao longo do caminho. Ao decorrer do projeto, algumas das principais barreiras que puderam ser vistas incluíram a definição do público-alvo, a seleção dos jogos que poderiam ser divulgados, a organização do conteúdo, a escolha das melhores estratégias de layout para o site , a otimização do site para os mecanismos de busca, entre outras. Para superar esses desafios, é importante ter um planejamento bem estruturado desde o início, com a definição clara dos objetivos e metas do site.
