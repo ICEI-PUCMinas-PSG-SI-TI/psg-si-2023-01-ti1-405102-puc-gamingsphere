@@ -27,6 +27,7 @@ A Pontifícia Universidade Católica (PUC) oferece o curso de graduação em Sis
 - [Introdução](#introdução)
   - [Problema](#problema)
   - [Objetivos](#objetivos)
+  - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas](#personas)
@@ -43,19 +44,32 @@ Com o avanço tecnológico e o aumento da popularidade dos jogos eletrônicos, a
 Em nosso site, será abordada a divulgação de jogos, desde a escolha da plataforma, notícias sobre as novas atualizações, sobre os campeonatos e  até a implementação de recursos que possam melhorar a experiência dos jogadores no mundo gamer.
 O site oferece uma plataforma para que os desenvolvedores possam divulgar informações sobre seus jogos, bem como interagir com os jogadores e divulgar suas novidades, trazendo assim uma interatividade maior entre o criador e o consumidor.
 
-## Problema
 
+## Problema
 
 Ao criar o GamingSphere, um site com o objetivo de promover jogos de forma eficaz e se envolver com a comunidade de jogos, é importante considerar alguns desafios principais. Tais como trazer um conteúdo atraente e informativo para o público alvo, Um dos principais pontos é criar um conteúdo envolvente e informativo. 
 O design do site deve ser intuitivo e agradável aos usuários. É importante garantir que a navegação seja fácil e que os visitantes possam encontrar facilmente os jogos que procuram. Interação com a comunidade: É fundamental envolver ativamente a comunidade de jogadores. Isso pode ser feito por meio de recursos interativos, como fóruns de discussão.
 
+> **Link Útil**:
+> - [Os 6 principais desafios de desenvolvimento de sites e como resolvê-los](https://www.agenciamacan.com.br/blog/os-6-principais-desafios-de-desenvolvimento-de-sites-e-como-resolve-los)
+
 
 ## Objetivos
 
-O objetivo do GamingSphere é promover e mostrar os melhores e mais recentes jogos para a comunidade de jogos. O site oferece uma plataforma para desenvolvedores de jogos mostrarem seus jogos para um público amplo e diversificado. Ao fornecer análises abrangentes e informativas, artigos de notícias e gameplay, o GamingSphere visa ajudar os usuários a tomar decisões informadas sobre quais jogos comprar e jogar. Além disso, o site apresenta uma forte presença na mídia social, com envolvimento ativo em várias plataformas para manter os usuários atualizados sobre os últimos desenvolvimentos no mundo dos jogos. O objetivo final do site é se tornar o destino preferido dos jogadores, fornecendo uma riqueza de informações, recursos e engajamento da comunidade que mantém os usuários envolvidos e voltando para mais.
+O objetivo do GamingSphere é se estabelecer como o principal destino para a comunidade de jogadores, fornecendo um ambiente completo e abrangente para a divulgação e exploração dos melhores e mais recentes jogos. Nossa missão é promover e mostrar jogos de alta qualidade. Queremos oferecer uma vitrine para que os desenvolvedores possam apresentar seus jogos a um público amplo e diversificado. Para alcançar esse objetivo, o GamingSphere se compromete a fornecer análises abrangentes e informativas, que ajudem os jogadores a tomar decisões informadas sobre quais jogos jogar. Nossas análises serão imparciais, baseadas em critérios claros e objetivos.
+
 
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+
+## Justificativa
+
+A indústria de jogos eletrônicos tem experimentado um crescimento significativo nos últimos anos, se tornando uma das formas de entretenimento mais populares e lucrativas. Nesse cenário, o GamingSphere se mostra essencial para suprir a necessidade crescente por informações, análises e conteúdo especializado na área. Com a expansão dos dispositivos móveis, da internet e das redes sociais, a audiência interessada em jogos eletrônicos se tornou cada vez mais ampla e diversificada. O GamingSphere tem como objetivo fornecer um espaço dedicado à divulgação de jogos, oferecendo aos usuários acesso fácil e conveniente a notícias, análises relevantes sobre o universo dos jogos.
+
+> **Link Útil**:
+> - [Mercado de Games no Brasil e no mundo](https://olist.com/blog/pt/como-vender-mais/inteligencia-competitiva/mercado-de-games-no-brasil/)
+
 
 ## Público-Alvo
 
@@ -68,6 +82,7 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
  
 # Especificações do Projeto
 
@@ -118,7 +133,7 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 
 <a href="https://ibb.co/8XkDjwW"><img src="https://i.ibb.co/t3RMb67/5.png" alt="5" border="0"></a><br /></a><br />
 
-<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0" /></a><br /></a><br />
 
 <a href="https://ibb.co/n1g7DnV"><img src="https://i.ibb.co/Ks029LQ/7.png" alt="7" border="0"></a><br /> </a><br />
 
@@ -131,6 +146,7 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
 
@@ -159,11 +175,13 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
+
 # Projeto da Solução
 
 Para da criação do site GamingSphere, foi necessário um time em desenvolvimento com habilidades diversas, entre as ferramentas nas quais utilizamos foram o Figma e o Trello - principais tecnologias utilizadas no projeto. O Figma é uma ferramenta de design de interface do usuário que permite criar e compartilhar protótipos de design, enquanto o Trello foi ferramenta de gerenciamento de projetos que ajuda as equipes a organizar e acompanhar o progresso das tarefas. No entanto, ainda como início do projeto, não incluímos nenhuma linguagem de programação como HTML, CSS e JavaScript, juntamente com os frameworks.
 
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
+
 
 ## Wireframes
 
