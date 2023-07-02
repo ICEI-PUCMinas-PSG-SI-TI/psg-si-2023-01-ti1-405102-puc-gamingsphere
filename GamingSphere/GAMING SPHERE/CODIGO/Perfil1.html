@@ -1,0 +1,76 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Perfil1.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $("#tagCabecalho").load("Cabecalho.html");
+      $("#tagRodape").load("Rodape.html");
+    });
+  </script>
+  <title>Perfil</title>
+</head>
+
+<body>
+
+  <header>
+    <div id="tagCabecalho"></div>
+  </header>
+
+  <main>
+    <div class="card-container">
+      <div class="container11">
+        <div class="card">
+          <div class="card1">
+            <label class="picture" for="picture_input" tabIndex="0">
+              <span class="picture_image"></span>
+            </label>
+          </div>
+          <div class="card2">
+            <div class="escrever">
+              <h3 class="informacao-titulo" width="55px">Informações Pessoais:</h3>
+              <!--<p class="informacao-sub">Informações sobre você e suas preferências </p>-->
+              <div class="info">
+                <t>Nome:</t>
+                <span id="nome"></span><br>
+              </div>
+              <div class="info1">
+                <t>Idade:</t>
+                <span id="idade"></span><br>
+
+              </div>
+              <div class="info2">
+                <t>Email:</t>
+                <span id="email"></span><br>
+
+              </div>
+              <div class="save">
+                <button>
+                  <a href="Perfil2.html">Editar</a>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="card3">
+            <div class="info3">
+              <p>Descrição:</p>
+              <span id="descricao"></span>
+            </div>
+          </div>
+        </div>
+      </div>  
+  </main>
+
+  <footer>
+    <div id="tagRodape"></div>
+  </footer>
+
+  <script src="Perfil1.js"></script>
+
+</body>
+
+</html>

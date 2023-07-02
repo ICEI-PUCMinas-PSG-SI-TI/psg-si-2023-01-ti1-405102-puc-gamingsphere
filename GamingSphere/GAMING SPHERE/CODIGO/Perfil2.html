@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Perfil2.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $("#tagCabecalho").load("Cabecalho.html");
+      $("#tagRodape").load("Rodape.html");
+    });
+  </script>
+  <title>Perfil</title>
+</head>
+
+<body>
+
+  <header>
+    <div id="tagCabecalho"></div>
+  </header>
+
+  <main>
+    <div class="card-container">
+      <div class="container11">
+        <div class="card">
+          <div class="card1">
+            <label class="picture" for="picture_input" tabIndex="0">
+              <span class="picture_image"></span>
+            </label>
+            <input type="file" name="picture_input" id="picture_input">
+          </div>
+          <div class="card2">
+            <div class="escrever">
+              <h3 class="informacao-titulo" width="55px">Informações Pessoais:</h3>
+              <!--<p class="informacao-sub">Informações sobre você e suas preferências </p>-->
+              <div class="info">
+                <t class="nome">Nome:</t>
+                <input id="nome" type="text" placeholder="Name" class="texto"><br>
+              </div>
+              <div class="info1">
+                <t class="nome">Idade:</t>
+                <input id="idade" type="number" maxlength="2" oninput="limitarInput()" placeholder="Age"
+                  class="texto1"><br>
+              </div>
+              <div class="info2">
+                <t class="nome">Email:</t>
+                <input id="email" type="text" placeholder="example@gmail.com" class="texto2"><br>
+              </div>
+              <div class="save">
+                <button>
+                  <a onclick="salvar()">Salvar</a>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="card3">
+            <div class="info3">
+              <p class="nome1">Descrição:</p>
+              <textarea id="descricao" type="text" placeholder="Fale um pouco sobre você" class="texto3"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+  </main>
+
+  <footer>
+    <div id="tagRodape"></div>
+  </footer>
+
+  <script src="Perfil2.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comentário</title>
+  <link rel="stylesheet" href="Comentario.css">
+  <script type="text/javascript" src="Comentario.html"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-vcUuErlBIVz9JqpIS9Q/nt8sQy2EuEmIJWuIvLx/2GCJaqmOgzvY8V+smVnaf3r2TlDCmPeTQ9m6e/O5bNf9eQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $("#tagCabecalho").load("Cabecalho.html");
+      $("#tagRodape").load("Rodape.html");
+    });
+  </script>
+  <link rel="stylesheet" href="Cabecalho.css">
+
+</head>
+
+<body>
+
+  <header>
+    <div id="tagCabecalho"></div>
+  </header>
+
+  <div id="l1">
+    <div id="l11">
+      <h1>Comentários</h1>
+
+      <div class="comments" id="comments">
+        <!-- Comentários serão exibidos aqui -->
+      </div>
+
+      <form id="comment-form">
+        <label for="comment"></label>
+        <textarea id="comment" name="comment"></textarea>
+        <button type="submit">Enviar</button>
+      </form>
+
+      <img id="logo" src="IMAGEM/Logo.png" alt="Descrição da imagem">
+    </div>
+  </div>
+
+  <footer>
+    <div id="tagRodape"></div>
+  </footer>
+
+  <script src="Comentario.js"></script>
+
+</body>
+</html>
