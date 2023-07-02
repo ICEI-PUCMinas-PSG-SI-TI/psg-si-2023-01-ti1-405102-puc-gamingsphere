@@ -185,23 +185,23 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 ## Wireframes
 
-<a href="https://ibb.co/ZxCM2tR"><img src="https://i.ibb.co/vk8jXgC/Home-Page.png" alt="Home-Page" border="0"></a><br /><br />
+<a href="https://ibb.co/2PzkdqL"><img src="https://i.ibb.co/mtnc4JY/Home-Page.png" alt="Home-Page" border="0"></a>
 
-<a href="https://ibb.co/y4BTqKZ"><img src="https://i.ibb.co/BnKDBvQ/Pesquisa.png" alt="Pesquisa" border="0"></a><br /><br />
+<a href="https://ibb.co/TgqBdMZ"><img src="https://i.ibb.co/874DtgJ/Pesquisa.png" alt="Pesquisa" border="0"></a>
 
-<a href="https://ibb.co/LgW29b1"><img src="https://i.ibb.co/Sm89VWB/favoritos.png" alt="favoritos" border="0"></a><br /><br />
+<a href="https://ibb.co/ZVFFTqR"><img src="https://i.ibb.co/VtzzBf0/Favoritos.png" alt="Favoritos" border="0"></a>
 
-<a href="https://ibb.co/LdpyXtg"><img src="https://i.ibb.co/F471LwY/coment-rio.png" alt="coment-rio" border="0"></a><br /><br />
+<a href="https://ibb.co/FW4BGqk"><img src="https://i.ibb.co/dc4QnJs/Comentario.png" alt="Comentario" border="0"></a>
 
-<a href="https://ibb.co/64KhJPP"><img src="https://i.ibb.co/dQN9J22/Noticia.png" alt="Noticia" border="0"></a><br /> <br />
+<a href="https://ibb.co/TvpHVjc"><img src="https://i.ibb.co/p0G3tV2/Noticia.png" alt="Noticia" border="0"></a>
 
-<a href="https://ibb.co/Lh5JnTr"><img src="https://i.ibb.co/0VtFh0K/review.png" alt="review" border="0"></a><br /> <br />
+<a href="https://ibb.co/3NbZpWb"><img src="https://i.ibb.co/85wZr2w/Review.png" alt="Review" border="0"></a>
 
-<a href="https://ibb.co/vsJTJ1v"><img src="https://i.ibb.co/xmMBMh8/Categoria.png" alt="Categoria" border="0"></a><br /><br />
+<a href="https://ibb.co/2PKpVqM"><img src="https://i.ibb.co/gwgcqyW/Categoria.png" alt="Categoria" border="0"></a>
 
-<a href="https://ibb.co/y8j11YD"><img src="https://i.ibb.co/9q5LLVJ/img.png" alt="img" border="0"></a><br /><<br />
+<a href="https://ibb.co/PZdfrN3"><img src="https://i.ibb.co/VWsPLtr/Imagem.png" alt="Imagem" border="0"></a>
 
-<a href="https://ibb.co/54tJkh2"><img src="https://i.ibb.co/DWsjYfL/salvaar.png" alt="salvaar" border="0"></a><br /><br />
+<a href="https://ibb.co/8b2W7LL"><img src="https://i.ibb.co/Nrp8ydd/SalvaN.png" alt="SalvaN" border="0"></a>
 
 <a href="https://ibb.co/3kT5XPf"><img src="https://i.ibb.co/25F02p8/SobreN.png" alt="SobreN" border="0"></a><br /><br />
 
@@ -226,7 +226,7 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
 
 
-# Conclusões
+## Conclusões
 
 Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado. Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
 O processo de criação deste um site para divulgação de jogos  apresentou algumas dificuldades ao longo do caminho. Ao decorrer do projeto, algumas das principais barreiras que puderam ser vistas incluíram a definição do público-alvo, a seleção dos jogos que poderiam ser divulgados, a organização do conteúdo, a escolha das melhores estratégias de layout para o site , a otimização do site para os mecanismos de busca, entre outras. Para superar esses desafios, é importante ter um planejamento bem estruturado desde o início, com a definição clara dos objetivos e metas do site.
