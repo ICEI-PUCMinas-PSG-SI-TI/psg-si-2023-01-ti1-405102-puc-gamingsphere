@@ -107,9 +107,9 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
 
 <a href="https://ibb.co/xFZMZz1"><img src="https://i.ibb.co/jJtLt3y/Persona1.png" alt="Persona1" border="0"></a>
 
-<a href="https://ibb.co/R4bmbQ5"><img src="https://i.ibb.co/Fq3M38P/Persona2.png" alt="Persona2" border="0"></a>
+<a href="https://ibb.co/QXhPjx9"><img src="https://i.ibb.co/GFGW3r7/Persona2.png" alt="Persona2" border="0"></a>
 
-<a href="https://ibb.co/TWzzk6K"><img src="https://i.ibb.co/MBqqsr8/Persona3.png" alt="Persona3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mctty7y/Persona3.png" alt="Persona3" border="0"></a>
 
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
@@ -129,17 +129,17 @@ Em resumo, o público alvo para o nosso site de divulgação de jogos são princ
  
 ## Histórias de Usuários
 
-<a href="https://ibb.co/SmJS1RX"><img src="https://i.ibb.co/1Xbcp8f/4.png" alt="4" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/FJB6y0Y"><img src="https://i.ibb.co/1K9ZPdX/Historia-P1.png" alt="Historia-P1" border="0"></a>
 
-<a href="https://ibb.co/8XkDjwW"><img src="https://i.ibb.co/t3RMb67/5.png" alt="5" border="0"></a><br /></a><br />
+<a href="https://ibb.co/zn0LnSw"><img src="https://i.ibb.co/TvFnvH5/Historia-P2.png" alt="Historia-P2" border="0"></a>
 
-<a href="https://ibb.co/rHyJdx3"><img src="https://i.ibb.co/JHkP3vq/6.png" alt="6" border="0" /></a><br /></a><br />
+<a href="https://ibb.co/cvDwrTk"><img src="https://i.ibb.co/FWgXD7m/Historia-P3.png" alt="Historia-P3" border="0"></a>
 
-<a href="https://ibb.co/n1g7DnV"><img src="https://i.ibb.co/Ks029LQ/7.png" alt="7" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/qBPN7Jd"><img src="https://i.ibb.co/F6j5mHK/Historia-P4.png" alt="Historia-P4" border="0"></a>
 
-<a href="https://ibb.co/LNcH5nT"><img src="https://i.ibb.co/3RjQzBx/8.png" alt="8" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/wSk4fmV"><img src="https://i.ibb.co/D9JQZ2h/Historia-P5.png" alt="Historia-P5" border="0"></a>
 
-<a href="https://ibb.co/6JN3TPS"><img src="https://i.ibb.co/x83pBjb/9.png" alt="9" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/XpqGCw9"><img src="https://i.ibb.co/y5rxQ3D/Historia-P6.png" alt="Historia-P6" border="0"></a>
 
 
 >
