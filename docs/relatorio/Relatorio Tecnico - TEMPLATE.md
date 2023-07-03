@@ -225,6 +225,39 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema.
 > 
+## Metodologia de Trabalho
+A Metodologia de Trabalho do site Gaming Sphere,segue um processo bem estruturado, com atribuições claras e o uso de diversas ferramentas para garantir um desenvolvimento eficiente e de qualidade:
+
+Planejamento e Análise:
+
+Definição dos objetivos do site, identificação do público-alvo e levantamento de requisitos.
+Análise de mercado para identificar tendências .
+Elaboração de uma estratégia de desenvolvimento, incluindo a definição das funcionalidades principais.
+
+Design e Prototipagem:
+
+Criação de wireframes e protótipos interativos para visualizar a estrutura do site e as interações.
+Design de interface de usuário (UI) e design de experiência do usuário (UX) para garantir uma navegação intuitiva e agradável.
+
+Desenvolvimento:
+
+Divisão das tarefas entre os membros da equipe de desenvolvimentodefinidas.
+Implementação das funcionalidades do site utilizando tecnologias web, como HTML, CSS, JavaScript e frameworks apropriados.
+
+Testes e Qualidade:
+
+Realização de testes funcionais e de usabilidade para garantir que as funcionalidades do site estejam em conformidade com os requisitos.
+Correção de eventuais bugs ou falhas identificadas durante os testes.
+
+Ferramentas Utilizadas:
+
+Ferramenta de gerenciamento de projetos,  Trello acompanhamento das tarefas e atribuições.
+Ferramentas de prototipagem e design Figma para criar as interfaces do site.
+Ambientes de desenvolvimento integrado (IDE) Visual Studio Code.
+Sistemas de controle de versão Git Hub para o gerenciamento de código fonte e colaboração em equipe.
+
+Essa metodologia de trabalho permite um fluxo contínuo e organizado de desenvolvimento, garantindo uma experiência positiva para os usuários e para os desenvolvedores do Gaming Sphere.
+
 ## Soluções
 
 A Solução Implementada para o site Gaming Sphere,é um software robusto que oferece diversas funcionalidades para a divulgação de notícias sobre jogos e eventos do mundo dos jogos. Aqui estão algumas das funcionalidades-chave do site:
