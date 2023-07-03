@@ -36,7 +36,11 @@ A Pontifícia Universidade Católica (PUC) oferece o curso de graduação em Sis
 - [Projeto da Solução](#projeto-da-solução)
   - [Wireframes](#wireframes)
   - [Mapa de navegação](#mapa-de-navegação)
+- [Metodologia de Trabalho](#metodologia)
+- [Solução](#solução)
+  - [Funcionalidade chave](#funcionalidades-chave)
 - [Conclusões](#avaliação-da-aplicação)
+
   
 # Introdução
 
@@ -224,32 +228,33 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema.
-> 
-## Metodologia de Trabalho
+
+
+# Metodologia de Trabalho
 A Metodologia de Trabalho do site Gaming Sphere,segue um processo bem estruturado, com atribuições claras e o uso de diversas ferramentas para garantir um desenvolvimento eficiente e de qualidade:
 
-Planejamento e Análise:
+- Planejamento e Análise:
 
 Definição dos objetivos do site, identificação do público-alvo e levantamento de requisitos.
 Análise de mercado para identificar tendências .
 Elaboração de uma estratégia de desenvolvimento, incluindo a definição das funcionalidades principais.
 
-Design e Prototipagem:
+- Design e Prototipagem:
 
 Criação de wireframes e protótipos interativos para visualizar a estrutura do site e as interações.
 Design de interface de usuário (UI) e design de experiência do usuário (UX) para garantir uma navegação intuitiva e agradável.
 
-Desenvolvimento:
+- Desenvolvimento:
 
 Divisão das tarefas entre os membros da equipe de desenvolvimentodefinidas.
 Implementação das funcionalidades do site utilizando tecnologias web, como HTML, CSS, JavaScript e frameworks apropriados.
 
-Testes e Qualidade:
+- Testes e Qualidade:
 
 Realização de testes funcionais e de usabilidade para garantir que as funcionalidades do site estejam em conformidade com os requisitos.
 Correção de eventuais bugs ou falhas identificadas durante os testes.
 
-Ferramentas Utilizadas:
+- Ferramentas Utilizadas:
 
 Ferramenta de gerenciamento de projetos,  Trello acompanhamento das tarefas e atribuições.
 Ferramentas de prototipagem e design Figma para criar as interfaces do site.
@@ -258,21 +263,22 @@ Sistemas de controle de versão Git Hub para o gerenciamento de código fonte e 
 
 Essa metodologia de trabalho permite um fluxo contínuo e organizado de desenvolvimento, garantindo uma experiência positiva para os usuários e para os desenvolvedores do Gaming Sphere.
 
-## Soluções
+
+# Soluções
 
 A Solução Implementada para o site Gaming Sphere,é um software robusto que oferece diversas funcionalidades para a divulgação de notícias sobre jogos e eventos do mundo dos jogos. Aqui estão algumas das funcionalidades-chave do site:
 
-Página Inicial:
+- Página Inicial:
 
 Apresenta uma visão geral das notícias mais recentes e populares no mundo dos jogos.
 Destaca eventos importantes e próximos, como lançamentos de jogos, competições e convenções.
 
-Categorias de Jogos:
+- Categorias de Jogos:
 
 Organiza as notícias por categorias, como jogos de ação, RPG, esportes eletrônicos, entre outros.
 Permite aos usuários navegar facilmente pelas notícias de seus jogos favoritos.
 
-Perfil de Usuário:
+- Perfil de Usuário:
 
 Permite que os usuários criem perfis personalizados para salvar notícias favoritas e receber recomendações personalizadas.
 Oferece opções de personalização, como seleção de jogos favoritos e configurações de notificações.
@@ -286,12 +292,12 @@ Apresenta um calendário com os principais eventos relacionados a jogos, incluin
 Permite que os usuários visualizem detalhes, datas e locais dos eventos, além de poderem salvar eventos em sua agenda pessoal.
 Notificações:
 
-Integração com Redes Sociais:
+- Integração com Redes Sociais:
 A criação de redes sociais que aproximem mais o usuário do nome Gaming Sphere e de seus conteúdos.
 Possibilita que os usuários compartilhem notícias e eventos nas redes sociais, ampliando o alcance do site e incentivando o engajamento da comunidade.
 
 
-## Conclusões
+# Conclusões
 
 Em conclusão, o site pode ser utilizado como uma ferramenta poderosa de marketing, promovendo os jogos de forma eficiente e alcançando um público maior e mais diversificado. Isso possibilita a criação de uma comunidade engajada e apaixonada por esse universo, que compartilha informações, opiniões e experiências sobre os jogos.
 O processo de criação deste um site para divulgação de jogos  apresentou algumas dificuldades ao longo do caminho. Ao decorrer do projeto, algumas das principais barreiras que puderam ser vistas incluíram a definição do público-alvo, a seleção dos jogos que poderiam ser divulgados, a organização do conteúdo, a escolha das melhores estratégias de layout para o site , a otimização do site para os mecanismos de busca, entre outras. Para superar esses desafios, é importante ter um planejamento bem estruturado desde o início, com a definição clara dos objetivos e metas do site.
