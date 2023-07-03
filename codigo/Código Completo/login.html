@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login</title>
+  <link href="login.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <form>
+    
+    <h2>Login</h2>
+        
+    <div class="inputBox">
+      <input type="text" name="name" required="" id="nomeUsuario">
+      <label>Nome</label>
+    </div>
+    
+    <div class="inputBox">
+      <input type="text" name="user" required="" id="usuarioUsuario">
+      <label>Usuário</label>
+    </div>
+    
+    <div class="inputBox">
+      <input type="email" name="email" required="" id="emailUsuario">
+      <label>E-mail</label>
+    </div>
+    
+    <div class="inputBox">
+      <input type="password" name="password" required="" id="senhaUsuario">
+      <label>Senha</label>
+    </div>
+    
+    <input type="button" name="" value="Entrar" onclick="logar()">
+    
+    <p>Ainda não tem uma conta?
+      <a href="index.html">Crie uma conta </a>.
+    </p>
+    
+  </form>
+
+  <script src="login.js"></script>
+
+</body>
+
+</html>

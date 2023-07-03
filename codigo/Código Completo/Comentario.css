@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*Comentario*/
+#l11 {
+  padding-top: 1.9cm;
+  padding-left: 0.1cm;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #c39bfb;
+  border-radius: 3px;
+  width: 100%;
+  max-width: 500px;
+  resize: vertical;
+}
+
+button {
+  background-color: rgb(215, 184, 248);
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+  color: rgb(197, 153, 251);
+  box-shadow: 0 0 10px 0 rgba(128, 0, 128, 0.5);
+}
+
+button:active {
+  background-color: white;
+  color: rgb(255, 255, 255);
+}
+
+.comments {
+  margin-top: 20px;
+}
+
+.comment {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #d68ef7;
+  border-radius: 3px;
+  max-width: 500px;
+  box-shadow: 0 0 10px 0 #42104f;
+}
+
+.comment p:first-child {
+  margin-top: 0;
+}
+
+.comment p:last-child {
+  margin-bottom: 0;
+}
+
+.comment .timestamp {
+  display: none;
+}
+
+textarea {
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(215, 184, 248);
+  border-radius: 3px;
+  width: 100%;
+  max-width: 500px;
+  resize: none;
+}
+
+@media only screen and (max-width: 480px) {
+  #logo {
+    display: none;
+  }
+}

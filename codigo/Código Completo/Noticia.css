@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
+
+body {
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+main {
+  width: 70%;
+  margin: 80px auto;
+  padding: 15px;
+  background-color: #2E2E2E;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  main {
+    width: 90%;
+    margin: 40px auto;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  main {
+    width: 95%;
+    margin: 20px auto;
+    padding: 5px;
+  }
+}

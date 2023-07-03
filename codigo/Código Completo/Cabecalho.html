@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="Cabecalho.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+  <title>Cabeçalho</title>
+</head>
+
+<div id="tagCabecalho">
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <div class="wrapper">
+        <nav>
+          <input type="checkbox" id="show-search">
+          <input type="checkbox" id="show-menu">
+          <label for="show-menu" class="menu-icon">
+            <i class="fas fa-bars"></i>
+          </label>
+          <div class="content">
+            <div class="logo">
+              <div class="logo_header">
+                <img src="IMAGEM/Logo.png" class="img-logo" alt="Logo">
+              </div>
+            </div>
+            <ul class="links">
+              <li><a href="home.html">Home</a></li>
+              <li><a href="ResultadoDePesquisa.html">Pesquisa</a></li>
+              <li>
+                <a href="evento.html" class="desktop-link" onclick="eventos()">Eventos</a>
+                <input type="checkbox" id="show-features">
+                <label for="show-features">Eventos</label>
+              </li>
+               <li>
+                <a href="categoria.html" class="desktop-link">Categoria</a>
+                <input type="checkbox" id="show-services">
+                <label for="show-services">Categoria</label>
+              </li>
+            </ul>
+          </div>
+          <a href="Perfil1.html">
+            <i class="fas fa-user white-icon" id="user"></i>
+          </a>
+          <!-- <label for="show-search" class="search-icon">
+            <i class="fas fa-search"></i>
+          </label> -->
+          <form action="#" class="search-box">
+            <input type="text" placeholder="Type Something to Search..." required>
+            <button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+          </form>
+        </nav>
+      </div>
+    </nav>
+  </header>
+</div>
+
+</html>

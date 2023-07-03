@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  width: 95rem;
+  height: 50rem;
+  background: #1a1a1a;
+  border-radius: 1rem;
+  position: relative;
+
+  justify-content: center;
+  align-items: center;
+  color: white;
+  /*margin-top: 15rem;*/
+  margin-left: 3%;
+}
+
+.card:before {
+  position: absolute;
+  content: "";
+  top: -0.25em;
+  left: -0.25em;
+  background: linear-gradient(51deg, #f490ff, #be0786, #4eafff, #700099);
+  z-index: -1;
+  width: calc(100% + 0.5em);
+  height: calc(100% + 0.5em);
+  border-radius: 15px;
+  animation: gradient 5s ease infinite;
+  background-size: 350% 350% !important;
+  box-shadow: 0 8px 12px #4eafff88;
+  transition: 0.5s ease-in-out;
+}
+
+.card:hover:before {
+  animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+    box-shadow: 0px 0px 15px #4eafff;
+  }
+
+  50% {
+    background-position: 100% 50%;
+    box-shadow: 0 0px 10px #4eafff;
+  }
+
+  100% {
+    background-position: 0% 50%;
+    box-shadow: 0px 0px 20px #4eafff;
+  }
+}
+
+#cardlogo {
+  transform: translate(70%, -90%);
+  width: 64rem;
+}
+
+#titulo {
+  color: #000000;
+  font-size: 1rem;
+  margin-top: 100px;
+  margin-bottom: 32px;
+  font-family: 'DM Mono', monospace;
+  margin-left: 1rem;
+}
+
+#texto {
+  padding: 5%;
+  text-align: justify;
+  transform: translateY(-15%);
+
+}
+
+table {
+  padding: 1%;
+  transform: translateX(15%);
+  transform: translateY(-8rem);
+}
+
+#texto1 {
+  padding: 1%;
+}
+
+#texto2 {
+  padding: 1%;
+}
+
+#texto3 {
+  padding: 1%;
+}
+
+#texto4 {
+  padding: 1%;
+}
+
+#texto5 {
+  padding: 1%;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 90%;
+    height: auto;
+    margin: 1rem;
+  }
+
+  table {
+    transform: none;
+  }
+
+  #texto {
+    transform: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 90%;
+    height: auto;
+    margin: 1rem;
+  }
+
+  table {
+    transform: none;
+  }
+
+  #texto {
+    transform: none;
+  }
+
+  #titulo {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .card {
+    width: 98%;
+    /* Ajuste a largura conforme necessário */
+    height: 56rem;
+    /* Ajuste a altura conforme necessário */
+    margin: 2rem auto 0;
+    /* Ajuste a margem superior conforme necessário */
+    position: relative;
+  }
+
+  .texto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 1rem;
+    /* Ajuste o espaçamento interno conforme necessário */
+  }
+}

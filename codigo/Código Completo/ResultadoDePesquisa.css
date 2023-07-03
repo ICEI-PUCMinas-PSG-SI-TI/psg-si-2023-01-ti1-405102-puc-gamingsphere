@@ -1,0 +1,175 @@
+/*Cabeçalho*/
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*Barra de pesquisa*/
+.search-bar {
+  position: relative;
+  height: 6rem;
+}
+
+#titpesquisa {
+  margin-left: 0rem;
+  font-family:'Poppins', sans-serif;
+  margin-bottom: 3rem;
+}
+
+.caixa-search {
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+  background-color: #333;
+  height: 40px;
+  border-radius: 40px;
+  padding: 10px;
+}
+
+.caixa-search:hover>.caixa-texto {
+  width: 240px;
+  padding: 0 6px;
+}
+
+.caixa-search:hover>.botao-search {
+  background-color: #fff;
+  margin-left: 3px;
+}
+
+.botao-search {
+  color: #631b6d;
+  float: right;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  align-items: center;
+  transition: 0.4s;
+  transform: translateY(-106%);
+}
+
+.caixa-texto {
+  border: none;
+  background-color: #333;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: #fff;
+  font-size: 16px;
+  transition: 0.4s;
+  line-height: 40px;
+  width: 0px;
+  cursor: pointer;
+  transform: translateY(-25%);
+}
+
+
+/*Começo do card de notícias*/
+#notzelda {
+  width: 100%;
+  padding-left: 1rem;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Zelda {
+  width: 20%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@property --rotate {
+  syntax: "<angle>";
+  initial-value: 132deg;
+  inherits: false;
+}
+
+:root {
+  --card-height: 65vh;
+  --card-width: calc(var(--card-height) / 1.5);
+}
+
+main {
+  width: 100%;
+  padding: 4rem;
+}
+
+.card {
+  animation: spin 2.5s linear infinite;
+  background-image: linear-gradient(var(--rotate),
+      #5ddcff,
+      #3c67e3 43%,
+      #4e00c2);
+  width: 100%;
+  height: 12rem;
+  position: relative;
+  border-radius: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  font-size: 1.5rem;
+  cursor: pointer;
+  left: 0;
+  padding: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.card-wrapper {
+  background: #d9d9d9;
+  width: 100%;
+  height: 11.2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  padding: 0.25rem 4rem;
+}
+
+.card:hover {
+  color: rgb(88 199 250 / 100%);
+  transition: color 1s;
+}
+
+@keyframes spin {
+  0% {
+    --rotate: 0deg;
+  }
+
+  100% {
+    --rotate: 360deg;
+  }
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+@media (max-width: 767px) {
+  #notzelda {
+    visibility: hidden;
+  }
+
+  #Zelda {
+    min-width: 100%;
+    width: 100%;
+    margin: 0;
+  }
+}
+
+.resultados {
+  transform: translate(4rem, 4rem);
+  color: #000000;
+}

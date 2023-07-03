@@ -1,0 +1,74 @@
+body {
+  background-color: #ffffff;
+  color: black;
+}
+
+/*Cabecalho*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*carousel*/
+.carousel {
+  overflow: hidden;
+  width: 70%;
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-top: 0%;
+  height: 400px;
+  background-color: #686464;
+}
+
+.carousel-item {
+  display: none;
+}
+
+.carousel-item.active {
+  display: block;
+}
+
+.img-carousel {
+  width: 100%;
+}
+
+/*carousel fim*/
+main {
+  width: 70%;
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: #2e2e2e;
+  color: aliceblue;
+  padding: 15px;
+}
+
+.map {
+  position: relative;
+  display: block;
+  z-index: 1;
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 70%;
+  /* The width is the width of the web page */
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+/* Responsivo */
+@media screen and (max-width: 600px) {
+  .carousel img {
+    width: 100%;
+    height: auto;
+  }
+  
+  main, .map {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=PT+Sans:ital@1&family=Poppins:wght@300&family=Sigmar&family=Vina+Sans&display=swap');
+
+
+#tagRodape {
+  width: 100%;
+}
+
+footer {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #43354f, #655571);
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 35px;
+  font-size: 0.8rem;
+}
+
+.main {
+  /* padding: 20px; */
+  display: grid;
+  gap: 55px;
+  grid-template-columns: 1fr;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.footer-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-header h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.contato {
+  margin-top: -30px;
+  font-size: 1.8em;
+}
+
+.footer-links {
+  margin-bottom: 10px;
+}
+
+.office-des {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+
+.office a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.office a:hover {
+  color: #a316e9;
+}
+
+.link-des {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.link-des a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.link-des a:hover {
+  color: #a316e9;
+  transition: linear 0.3s;
+}
+
+.ri-arrow-right-line {
+  margin-left: 0;
+}
+
+.icons a {
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #fff;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  align-items: center;
+  font-size: 1.1rem;
+  margin: 2%;
+}
+
+.social-icon {
+  position: relative;
+  top: 2px;
+}
+
+.icons a:hover {
+  color: #fff;
+  background-color: #a316e9;
+  border-color: #a316e9;
+}
+
+.newsletter-des {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.icons {
+  display: flex;
+  gap: 10px;
+}
+
+.copyright-area {
+  width: 100%;
+  grid-column: 1/4;
+}
+
+.copyright-area p {
+  width: 100%;
+  grid-column: 1/4;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .main {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 2% 5%;
+  }
+}
+
+@media (min-width: 992px) {
+  .main {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 2% 10%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main {
+    margin: 2% 15%;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-header h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  .contato {
+    margin-top: -20px;
+    font-size: 1.5em;
+  }
+
+  .newsletter-des {
+    margin-top: 30px;
+  }
+
+  .icons a {
+    font-size: 1rem;
+  }
+
+  .icons {
+    justify-content: center;
+  }
+
+
+
+}
+
+@media (max-width: 767px) {
+  .copyright-area {
+    grid-column: 1;
+    margin: 20px 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .main {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 2% 5%;
+  }
+}
+
+@media (min-width: 992px) {
+  .main {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 2% 10%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main {
+    margin: 2% 15%;
+  }
+}

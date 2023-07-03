@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="Home.css" rel="stylesheet" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $("#tagCabecalho").load("Cabecalho.html");
+      $("#tagRodape").load("Rodape.html");
+    });
+  </script>
+  <title>Home Page</title>
+</head>
+
+<body>
+
+  <header>
+    <div id="tagCabecalho"></div>
+  </header>
+
+  <main>
+    <section aria-label="imagens-carousel">
+      <div class="carousel" data-carousel>
+        <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+        <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+
+        <ul data-slides>
+          <li class="slide" data-active>
+            <img
+              src="https://images.gog-statics.com/fb5e7a55e57bd782feb068c435061fdd180dbc4b525f0c35e5b886199e5a2f4e.jpg">
+          </li>
+
+          <li class="slide">
+            <img src="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2021/08/ghost-of-tsushima.jpg">
+          </li>
+
+          <li class="slide">
+            <img src="https://i.ytimg.com/vi/JFkhPbIsFOc/maxresdefault.jpg">
+          </li>
+        </ul>
+
+      </div>
+    </section>
+
+    <div class="card-container">
+      <div class="card">
+        <a href="Spider-Man.html">
+          <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/7/78/Spider-Man_jogo_2018_capa.png/270px-Spider-Man_jogo_2018_capa.png" alt="">
+        </a>
+      </div>
+    
+      <div class="card">
+        <a href="Atomic Heart.html">
+          <img src="https://sm.ign.com/ign_br/game/a/atomic-hea/atomic-heart_8z9d.jpg" alt="">
+        </a>
+      </div>
+    
+      <div class="card">
+        <a href="BATTLEFIELD.HTML">
+          <img src="https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg" alt="">
+        </a>
+      </div>
+    
+      <div class="card">
+        <a href="Need for Speed Heat.html">
+          <img src="https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/XemhVDBuAEVrQXUkJF57ZsdX.jpg" alt="">
+        </a>
+      </div>
+    </div>
+    
+
+    <div class="main">
+      <div class="projects-3">
+        <div class="project">
+          <div class="project-header">
+            <h3 class="project-title">The Legend of Zelda: Tears of the Kingdom
+            </h3>
+          </div>
+        <a href="The Legend Zelda.html"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBcVFRUXGBcZGiEaHBoaGh0cGhoZIBoaIRoZGhocICwjHCApIBkYJDYkKS0vMzMzGSI4PjgyPSwyMy8BCwsLDw4PHhISHjQpIyoyMjIyMjI0MjQ0MjQyMjIyMjI0MjIyMjIyMjIyMjoyMjI1MjIyMjIyMjIyMjIyMjIyMv/AABEIAOAA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAEQQAAIBAgQEAwUHAQYFAwUBAAECEQADBBIhMQVBUWETInEGMoGRoRQjQrHB0fBSU2JygpLhFRZDY9Izk/E0RFSUogf/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABAX/xAAtEQACAgIBAgUDBAIDAAAAAAAAAQIRAyESMUEEEyJRYXGBkRQjwdEy4UJSsf/aAAwDAQACEQMRAD8AxhSuZaJNuuZK9U8vkVR5arZKMX3SPiPpP5VFrdYykBlK5lovw66LVahuQGUrht0abVe8KhQeYD4dQKUw8GotZrUHmLylVlKYtZqtrVCg8gEpUSlGG3VTpWoNg0VyKtK14rQoYoIqMVeVrnh0KMUEVyKuKV4WyTABJ6ASfgBQoQpq3DYdrjBUBZjoANzVl/CsjZXGU8xIJHqAdD2OtMsNwy6ii5FxVcaQSuZCJ+RHWlbVWggWPwAtEKLi3GiWKBsgPJQzAFtNyBGsCaY8E4K2KzKou3bqL5bYgKFH95pgDpA1IE6049m+AWcTccPeFrLBCNFx3nQxMAakf1b/AD+ncJ9l7WHurcQFnAgEmIUgBpCwD1806n0iMppKn1Go+ccP/wD8xvnz4q4tq3ponnfWZH9Kx1lh60vxvsLd8Qrh28VAmc3GKqoBMCNdflyNfU+N4m7mgRl/wkQOmu9ZbH4t7gyMSLYMlRpmbkWI3A6VouT2TllSdGTwPs14bhiVulTMD3J5AnnG8ClXH0vBvOGyMdCAcrHmJ2J7VvrDAKQpUrzHahOO4V7th1VSxEFVGwgzoo30nSqJe5OOXZ808M16j/sN3+zf/Sa9RotzXuaJrBzR3qvw6dNgbiXNB51O3Qjb4cqGxSAtmUQG1joeYqikcfIXeHU/DGUdZ+lEeHXRap0zcwYWqmtqi1tVcliiK8gB4FSFimYsV0YegDzBZ9nqLYem/wBmrjYWtY3MSNh6paxT58NQ74btWGWQRvZqh7VO3w1DvhqxRZBI1qoeFTVsPVf2UnlWKKYtyVO1hix5Ac2MwPWBRbYeKj4NKw8gdSULBDIOmbLuOcA7A/zpXLtsEjKXZjuSAJJ5KAT/ADlRS4eeX860XhotHMAC8aH+g9R370tUHkDYbhYRib2mX8MjUzzg7dhqadW7OIxpZbQlVEszeVUEadkECAI5aClihnJJ16+laTgPC8c1rPhW8NHncgFoMEiQdZ/KpzdbsaOzSexfsyuEXxLyqbp1EjzLA2kn9BsNaecTxLKRcVoB1gHWNZkdzNfNcTx/GW2YXLha4JEuBHzAEjsK1vB8OtzH3WaTo4MgQMpCwNT5QNB2iubI3FpvuM02mkU8VxTXLBveYOlzKwJEBCBkMATJmNz7rUgfEEqMwgmfzIEfCtVxbAhcLiMkoQVb+8fvAGDH4jQaVnsJh81uWBJUkSekyJ6nWPhQhkqbV6J5MdwTrZDBEDcR+Zp3hsMRbNwAEAMTJgAAaz8AetW8CstlueWQQAFzQCdR9a9fuxgHue4SGMAyBmYjL6bChPxDTpGx+HTXKQq+32/6LX/uL+1eoz/lS30uf6h/41yh50xvJh7G2sojNDKrkDQlQYXmAehrC+0PBAl24UlUmRm2MjXUf3sw1rb8Mua6AFdgB2/SlvtUrqwcQVZMrCJO51E6Hf4QOtWg+MqFz1LHyPnot1PwaaWgAZKqw9IPyFSv28xkCPyrsTPLlNACWuVEW7NXpaom3arNicwYWqtTD0almibdiklKjKVi8YWpDCU7tYWeVWnC9qi8p0xxSaszbYKh3wVah8LVL4WisosscomTuYOhbmErWXML2oK9hatGdknkaMyuEk66Dmaou4foNP5rWhfDVxeFOyl1QlZiY3PbrTWkPDI3pGXOFqSYYAEkSeXQd6evhYMERGhG3zqs4XroK1lVkoTrhWbYb9KKs8CZmA0BOwJAn60yGDYqSFbKNyAY+Jo/hvsxdveZybduJzHUkdFEj57VOcqXUtjbk6SsH9nMEnjJbRVfK03BqwcgEhdRlVZjnJ6VvMde8NDLROgy7CNgI2XUVVgbVi0CbaKmUZc34so/c86Q8bxb3DA1G4HPbf8AnWuSTcpHapKMRJx3A3LlpQG1DFtp0ytz33/OgfaDG3bF17ltirfaG57qfE8p7bCOwp3bxaWbTvd2B0Xm0/hHLU0u9o+DviL9xEKgLdaSxiMzmIA1bSdKWb9UV9Qx3Fh/CuPpisLety5uJbDMG2gXE2I0oDD3Spg+7IkfAUy4XaTD2ruGR8yravMDAGcmWkxoxAAE9FFc4TatsjFgC2aFBjTyrqfmaR1532FluGhrwK4rF8pP4fh71LuJiMFZT+0NoHuIDN+VH4NVteIYCmAflm/egeLIW+z2xJyLJ9cqqsf/ANVOS/cKRdYr+pz7Wf6z8zXqF/4bd/p+o/evV06OPkze4CyLSmeZ0PWl3tPilNvJPmzBh23n00NX2MQFGUnNJmAZAjQDv8Kuxl+yrK2UFzppEgd/jRT4ytlprnj4x0YxFB5a9Zq5LZprjcIGuEqAo6bRG+gqhMOdxt2muqE00eJmxTi6BfD/AJtV1u1V4tVYqUWyKs7YszTGzgudVYQa04sEVz5JNHpeExRn1KLWGq5sPRQWukVz7PWWKKVC18PQ7WaaXBVRSmiRyY12FN2xQVzDTyp/dJIgxVVp1T8Mk7kxt0q0JtHn5cEXLbpCnA8PklmSRsJ0E6fOvY/GMphCAdvLtE8qaXiX0zBvh+lKLmF12P5fnRbvbOjFjjCNR/JK1grb63BndtS0kRI6Cp4nhthLeq6gEBpOZm5GJ+MVRiHNu2XHmYKxW2DDOQCcizzMfAAnlWd4H7VoL5GIyqFnJcQMyuZygRJM8wdtKk8lSptlfJco2kvqazhOI+7W2VAYHTMuhHIiedc4tfcMOka/r+QoDi3GLKxcNwAEBhrBIPNV32prhMdbu2hctXFucpiMsbgyJXedeUUXK9mjFpOLfQSnUk9dqpu2CpyyQY5bj/ei8TiiXkxQ74rXvRTEdAFjA29PHvCZmMpIAmRG3aqsdisPaJdr6sWJPuPPPfLNF3POOUid4j6sDp+tZL2mtlfDWOpJ21J7GO3wNcWRueRJnXF1Cxpb9oMNOudjlIBVdApUg+8V3DEUVguMYZiqqcQCdyUtsBrv7/x7TWPwWEL8wo6khfQCacW7du2uw+LW2k/KqrBBb3f1IvPPpr8G5bh5YGTcYHraiB08r855dKsxOFzGSWUjn4VyB0/By9aQ4DiSOy2hZAuZRvaWSY5AMCfWRzppl8uYB4OoItXoPQg27pBHcVzSVaaOmMrWi77Kn9q3+m5/4V6hvtI/rP8Apxf716l/I1fA58HKoVdxp3/m9RbA5wcogxOnP0HU00OHGcn5V5FUazHWvQcjihBrqC4bhzBfM3m6fuavt8P3zt8J5d6pbiak5UBJ5dJqlbd0nNrr3/mlMk++gTyQ6JX9CGKtQ5A1/TtUUSirVhZgsZ59KuvWEAlT8D+lP5iWjjfhZSblRXYs6EzqNYpjYQxMUAhnajLDx3pJWzrwqONhimvE1UHrhepUzt5qibVW1RLVEvTJE5TRG5Q2WTAFXu9dtuo3IH8+lOnRyzgpy6gNy2RUHBj9tKPF1H3PyqoWZPlM0/O1sl5Dg/S+ovFgEfeQVkaEwJBnNPKN5r5Vx7C3AfEcZ7DMWtsoU+UAqqoTt0IJiK+q+0V1MPYe6wzMBCpvndjCoANWJJ2G9fPsXw4C3Ywbea+/iNcRROQw90qp91WgASO++opHxbtnVi8yMa+fyZ261xxbbxBDyisrCCBlABBHlyyFiBEfO1/ZziLSi27rZBqubLHpmIE/U0MjeIyooRfCAFu3mAV0DlnDPyZiSSdNxppFfVuB8fTGZoYq6gi5afR7ZPVTyBG9aUqWh+4j9k7mKSzkxFoq6EgNcVTmXSNddQSfgBXeMe0t+0SqZFgb5AZPYxFMcdh2JM66lYyXB7unJiPpWT4/w6+bpIS4Q0RCswIgTGkiDPSuGMueT4KS9MQbGe1eMb/7hgOihV/IVPAcRxTEHx7vf72PoTQljhwX/wBRLqncxbJgRppuPWnS4W1bRTcuKEOuU2gbuTQkhVkqDmEMREtXS+MUc7cpM0fDMY7osNiGcAZgGsNrz0ZZI03o2/daPMt4GNzhbbFfjH6VmPZ97V5nUW7Cwwyi47qzaCSPDAB9Y/KnmMcW1By6SBNvEXIEydFbcwDAH0rkbak0joVONsj41u3PmtrmkMHs3EDT72bIYAI30A361eqW8vkXCa6geI9sbaR5tKGwPEbmVcy41WLEZRazhRyDB05+vOhON4IPmuZr2jAOrWTbgEMc2YQr7RI+JrSbToMVqxj4bf2WE/8A2n/8a9WRy2elz+f5q9SeavYbgz7G0HShcZhHynJBJ5HeO3ehMPxH7vPOvSmtsgoGPMa16NNMhGUcioyKrTu04KyZq69ZD6AKuUnfcnntQz2mXTYfz508pKSOWGN45fDK88tC6Uws2wCJaSO370ve8DcAQ9jHMide4o5co7TyOhpG0zoimgtyGG8+lRTIOc1FWGwE13wyen871hm03dWzpXpXCK6iRualloIVxb3RWararmWolCaYSUWURNWCwpHOatS3G4qaP2FbkGGL3KrWGRdSOdeu3gqkkgAa7bDmTVlxwImPz+lZr2txzW7aKCwNy4qnl5J8ygxoW2+BPKknOkdEcaWkJvbV8XcuWxh0cooDrdUTFwm4rCCJkLlIblPpWXwHA8WuKw4dir3GLMufNdFoaXC4g5Q65lGp3oPEe1eLLWrSXBaQsNEB1BcDzGSzCOkbGiuIe21wEg2bLkMQrFTmyiQNZ35/OljKa17hfH8Dn2V9mrNvH37V4eJctBLto+6DbeZZkHNZQeta3G+zVm5cF3Ibd1PduoTO2zCfMOxHpFfJsDjVY3MXcvXbTB8iFS1xjAWVkZcqKHXc8wI3plgfaC6Cbwvs4HlPiwQQTpoYJ1+IihPFKXc3mRi+h9NKpbTLBJjVhmUyNjBbrrzGmtB8P8QW3ti4HBJC+IUJIJ1DkwSNTpHz2rMYb2xum3MW7oDRmUMpzblfKY27d6Ef2luG4HuWyAhnTnmgAN9PkTziuHLizQTd6+C0MkJul1NS3A3LG5lCMw/6RMyD70gKp25sfrXcbgbD6srPcYwzW7ZGeNg7DMsggHlEelZL/mecxt32YEgkBXhWM6E6ZRvr/dOlU2PbUs7rdsm9rpmJYBdZDBiBPwqOOE5ap/dlZ8YK9DTHYG0Hm2PFiPu/faOakoC0A9hEnrNE3kQqHNk2hoSGWAG57DP6eXlSLE+2eGKsDYnMdEtfdAczmuKZYk9B8aQ3uMi865LbWin/AHrlw8o1fYA60/6TK1VtIn52PrRq04pbDuTf8IR+G4Vm5ABME+aBHTTT0XYr2kAIJuG9plD5nWYmBIgn1IPrrWX4s5dw7GSR0AmOsdoqGGQxADN2AJjv61fH4RxdttonLNFroaT/AJr/AO3c/wDdb/yr1KPstz+zf6ftXq6PKRPnE+z2ba5dPU8/4KcLfKKJH4dB3PWkXCXdTBGnU8v305U5xLjKNdQYHfrpXVPqcuBqrRE3825iBpXvK4ykz3ihBbmp27esUlFeTKn4MuYFWMc9RI9DU2ti3APwM9+3OjhAGXTXeRvQlzhysZzeXmOfwNZM0orsXZwo0InoTXsPfY9F9TVHDuHqpaZMGB6RM/I0wXCAGetF0aEWTCd6kAK5lioMKUp0LwAa8/aoIKsigMuhSx6n5UJjXbw2CSDGhG//AM0cUqt1A3oPoDZhn9qsTb8pVXIJA8uV210G+kAbkbsPSk3tPxj7RbRy5Fy1nUgea3qBJkgGSCYI/oO+lb/G4O3ckXFR9IggTHPU1mOIex6XNMPcyEALDSyhRyJ3XYdZNQeOV2nY3mKqZ8pv4xJHlJZTodtjPXrrTTCYBcVdUknIFL3MogghWMCepHIczG1X8b9isTYVrhCuoMZgQdTJEAaxp210qj2fW5avKAwUOGTMRoCZhvhGk6bjnXROkrXVE4/IdhcTbQJYNu2LSZmYlS1yNSzS34jET/hGgEVeb1l1CfZ1CkhjmLNKgNLHJlmI0HOgcRdCtlVdCVBzAHSHkzyLEg6c1qDFgmZ1BBU7mCSYA2Innp3PSudzlXUrxXUW8XxjLFu2fDtmD5JQSQOWYnN1Mn5UpvX2cQxY9yxJPzNXcSGa43Yx8tNvhVIWIrpUbjRPlUrJqwyEaST0Gg01nnsR29avuXDEyZPPb+c6DujcfyKszyB+dZY6dmc7VFd0wKP4Rg3MtBAjfbmOvKl9ytDg8SEMHfmR+vanlpE2GX8Lbtwbr288aLq7fIaD1NC3eIvmyqFAynyggfGevYUE18ZmuEZpJj0kwZPaKDUyZOtBp1oCSvYx/wCIn+9/qNeoLLXq1M1I+3ZMoE6npyq5sUTroOQ3MRuPlXHV+Qmld5rmb3I5bgd9ielRlKUtWCEIw7BeKxWaCNgY067xGk8qNt4pv+ohyxoVGpOkbnTegcNh7rAnMkA7krpHWq2ds0H7wARGgHw5VK5Qdv2LJJ6Q2tM/kIe5ljzmSZgr12J151cb1tSzwS0CASSxOvMzE6UGmCtMAcxQ9tCPqQB8KvWzbH9DAfizkfMGabzOW00FRrqSscTctqmVO+/zn9KbLetkkBpIOU9j0pXj7nhpmW2s7aZdfiRBpN9nuYtrjgBHGXqATtzG+laKmk92FtLVGxZxBiCQJjafnXLFwtJIA2056idfmK+eHG31cqGeQdpJkgbQfStDwPxWZXfMuWc4MrJAAURz0/KnTZuSNOEFRZwNINVDEVPxqpRuSK3xirMyI7UC2NDE6GOUmr8QgZux3+FWW7dtRoBvOutGkScpN9dARhoIAB11npV/hmAFgSI7/SrVywRAgzUrFtV1H1oASB72BzqUYDKRB5T3kaz3rAca9k7tu4qWUZ0dwUI/CJkqxPuwJ9RHpX00vVZuiklGylpHw3H66R7hg5uoENI5e7tULWKFxraqFlIJYgmMv9K9iW9Yr6d7U+ydvGAsjeFcO7ASHjYOJ15ajXTnSPDexdu1buIxL3WWA/uhSAYC7wCSJn6VNYvT8meTfwfNb2Edrvh2wzMxCjSJMDlyrvEOGoj+GHzODlZohAw96OZE6Dmd4FMMaLyXoQOl0+QZQc8wAQsazpyp9wr2aa1Z8V0bxQx8pHmVIWGA6zm7x8aZSdq326d2GUopPW/cxd62CAo0HOSATG0jkKEVJECDFSZ4fUTB2ad+4olL4uMCyhQAAcgAmOg2mNPr1roSpEHJ2D62zmyq3SRmXbp+hoh7pcwDJO55fDtXcW4OwyjpM6dydzQ9j3hWN8lhtMAdDHx+dSwaktEUztbCqI85POTWBZ7wh0r1X5z2r1YB9WXE33EQQZ0IBG350Xe4ax8O5M3CSG9Cpy/EER8e1N7F2UkEGNdNRQ68TUrtrOvSkovUe7MuhvICEzL1AGv1HShWvYgBroZ8o0ZuWpgfGTGlbC7jQBoN/pQrKjhg0OG3UaT69DzoKF7YjklpMz7YXF3Eh/Mo8wBKltv9W3I1UMHdWybq25C6mRIjnpzEDX1rQ2sQLeXt3k6davfigEcl7LOnP1mjw2Dkqtsyze0l0ghsjCIgrGx02O4k0z4M73QjL5SLiTlkeXWefYU4x2Dw9+3Bt+UEwyjKwbny77bVDgvDhZBAYnnmb0gR8JoONFE9jK6iq2cKM7CCecD+fQdKmdaDxV4ztp/NalYxU6HSPz5U1AcldBQtVBlNdLqsyT60L9oknp9aKElJLQVIjeo5SedcXLGs/KrBbXkT8BWBVlDSIqxGNee10Bod0jnWFaaC2fvUWeaCe6VIH58hXHx/TSku1cdmcq/yDLOJBLR+EwTynpPOvXWS537j96zuPV7sIoVE2JJJJHOFmBTe1egBYEDQcvyqcPMb9Vf2UlKCXpYh43w24SWRsjRlDgeaDuM24GnKK7hYRFST5QBJ1k8yT1J1+NaF3U0DiMApBIMdelUUIptpbIy5Pvoy/tB7OW8VcXyhGA813SSOSlY8503nSrOF+xGGta3D4rdG0Qf5AdT6k0wsoskiSNs3I+h50YO1aKdbYVL4Mv7Q+xdjw2e1mQgyVDSsa7AyRuOfKsJiMD4b5QSdJmvs4ftS7/gOFNwXHt5n3gk5P9Gx+NOg3s+ZI2g9KqtoWeFBJJgACST2HOvqvFOG2LxzPaEwBmBIMDYeUiaqwGAs2CTatqpO51LemY6x2pkgOSRh/wDl7E/2Nz5V6vpP2odK9RoHNCvg/GfsxIcEhthPOd60gxdq6Ihchk5pGjQZB6Gvkd/HsywTtt260z9nsU6XBtlIkzz3/eg0aM2tM1HFLd23ENmtnUHYwToCKHw19w0Amevp1r2HxKDLqWygwp90fuY+VGLbDPK6TGvSd/lWvQlW9E3VmXMYBJpxhSgtqI5T5gCdTPSovlUbgeg/aqM8jT5jnW6jr0svv45RvyqhseCjnURE8ucUFihOhO1Rt2CUuDrl5/3qPFCvJKy+9iZO/T8hXLWJA568unr3obEWNfgPyFUG3BAkSdtaZRJvI7+Qz2d4k72F8VvEfxLmvYXXCjnsBA6CBykmjEHUCF9OQ9azXAsUgs5iy5RcuDQ8zduMBvqSDMdKqxfFc9zIAdwIkjcwZgakEppOmYnWCKzSQmXLLk7NPieIW1EeIWO0DWPXpyquzx22iSG1kjKT0iSfQGsrxCyYBfIGYZFRQWj8RaQAWZQGIgKNTQPjxcDLqF1JlgYA8zQdFJYrM6DN3IpLtE4+Ik9o3ln2otk5SNexk9dt6OXHW7miMJ6bH5Gvm1y8pmU1mSTI3IaD+EzofjRCYV0XNaZTDSZlWXXWT5QQNzoIgxQpdyi8VJf5G8fDtMxPrS+9cYE6j00/SlOB4++UFycrdTqNhvz1I5T+dE/aAdd6aEKNkyprQXbE89aIL5BMj+b0Jbu8zp9P/mgOMcRg5EOq7nv/ACazQccl3HuGv5tY/YbQO5+QqzE+YZeu47dDWe4LxQFir77g/np9fnTi5iB2jkZ0NI1s6LXYqfDjmY7D/aqS7DYbddTXWvyddBUnYkaGABv+tMkJyXY7bxRGjZfQb/7Vy9xFRoEn1/agGsa761U7FRBE9+YplBC830DPtmY76+lcZ550LZuLzmandugGAsDvv/tT0Cydeqvxux+derUAx2PwRtxIIPQ7/IbVLCOdhOvSt23DkZg7WwTvJn8tqsw3DrYaQqIeoXX6VKyriLOFYFozXFZV0IB0zfrFOlvBRELHp+tHXsCrx54IAG2+/erMBhPCLM5BnaBJ+R2oco1Y6xyuu3uKgHc+QZucDkK5eum2PN5PXTbp1NOLuIKCcywTsFAb8/0pfdxC3ZzLCKCWLaz02HWtzvto0saX/LYss3790/dpnHUlfrJ0FWphLrrcz5bYAGpgAQdweY+NXti7Gs3CznWSSoGkQoWZP7UHhcUp8QNcZ9I5xqRsCJ5UU2yM1GPV39yjCW2dytu290rBMFVgFsoPmOg3+ANTPs7ibtwtctMLZ0VfEQG3qvn0Y6gBj6ntFGYLjIRH8JR41zpAW3bAi2W5FtWYLv5tdIobG4y+FzC7ddiYyh4zTOgGw37bUVKe60gweKDSttv2E2B9ncTe+9RSUa4zLldFCEmSVQkQcxafQEU6Tg9+1bz3LfmCzcfMpkAeYqA8gCDAA05ChfZbH3FRsU5uC0reHasq3/1F99AFGxGoHScx/Aaa+03ESALFy7kWVFy4qkxcdphRyRPKee6yZBDRlOUqXYr4jFjlG5Xf8sR8QteIVC5g2YrofeyqWZQuYa6gz257Ur8FwCHQROXzMx84S28CGEHLcttGvxymNPxT2dSyQ9/GugLHJCEmckN7pMeWR6VA8Dtpds2zibjeOGZGyAoYFuAQWkEoqa/9sbQKeLikc8fCuMeLW/qjMphXObQ5kCBiMpzNcTNaBM6hhuNdWGxMGy5buSGEGGVZ8qgEs4QAbQWtsJGhygSfLOj4zw9cOVtm5cuM6zEZVCr5dTnkeVmA36aVZwzgK4hfETE3JVgHUqSAwliAQwnS4xBBnzmdyKPJJcuxlhTlxra7WhA2GujK0ZbigjXLquS6VKmSDC2mYEbqOcgknCPcCyLcSodgYATMMwIEzDL5gOUEcqlxzg9xLIvWLheyVT7y0xhwSwBZQSRGYksCQc7Agamp+zvDRjPFBvurgQyhZTKyqAywwjVWgHSOoGh5UrAsC5VTv6g13H6gzmMDloB0HU96nhsPauFp8UmRGQSW6/IT8qGxGGa1euWmg+GxWeqkBkPqVZSRyPWp27zJ7rFfQxqPSrNWtEI+idSGD3/s7MlssUIHkuLGYEa6QDzI5bc6IS/dvKpER7uQIAq66EuYj3ogToNtKoHErd0xdtjb3wSCNDvvmE669aW4i4QSqMY+QaNpAMVHi/udimvfQ7RxaIF5AGJgSysAO6gmeZnselN7N2zeBVbesbrC/wA+NZ/ABry5CBM++wPlPOG76SOw0qN1cXhF/wCnLGBB8hXaC3Jo80baUGm/qPF0umhrxThNwm02HgA+VwxzQN/EBH4hBEbGR01FxuFghcrk82MR6gc6t4bxdg6lyAp300PKmmJxC3QWRtv5A5UHKceoyjCVtdTPGzaS4p8Qi6JAIBA1kQW5SPzFcax3qWLW275WQmN8rspLdZUiRyjbepGwqKEVFCidAWBM7yx1nSJpo5K6k5Y/YH8A969Q+XD/AP49yvVTzEJwfuaZOKagU1wzhxIXTqQKxGHN0sR4RCk6XJVl5QSCVPynatRwQXVzB8hSBlZSZnWVZTO2moPPYVytUdsJNvYRicUEOkSKRcRuXLtzMFJCiQ2UgZYkmTUMcmLe4M1wW7SsH+6YjPDIQlwETEC4DBgyNNNX63XuW2yDUjmSonuQQfkaaMuOwTjz10FNvCq+X7wMpAbMn9LbEesGD2pfxXhoTM9u67OwJZ7hZmYbqqwIUaAZT0kmaN4XiGCtZGEWxb22ABbYlVygupj3mAkRp0qN3DWyV87mYZndy07xLGAvKAIpucrJuEVEXjiH3SolvK34niSf80dDsI3qGDcLmzSNP4Ka4jiFq2oyqrvrp+AE7Ej8UdO1JXxE7xr8PkKrDa6Hn53xa3YXbZV2A+n6aV6zZe/cW0hIzGWcfgRfeaevIdyKoViqydhtzPoBTvhKXLNxbasA8C/irjwRasiTbsA7AkZyTy8x2iNklUQeFx85pvoiTNhvDsYvDPmRENrC28pCq+Z0e8QYZjE7xPqwrP8AEiS6g6j3p5liwzFjzkmfWa5xbjf2pjcCSlu6qoskZbYVspYaAZm1k6agH3RVGPCsyhQYf7uB1kKEETrKtp371GCpqxvE5fMy+nov/fc+ge1PDLl/wVRkWLhksdQpUzlH4jAJjTasnw2432zDWSZXD371tSTLG2WfIGHIqFj0inXt/IWw65gyXCVKgkqcuhgTrIG/WOdKrOFNrF8PzrFy892/c8sDO/nygHXyCB2j1oQfp38nblV5PSu6v5Qb7cH7+zMgeG23+MTpTD2LsxbxC5swN4gGdx4Vv/eqvaTh5v43DWx7oUtc7Ww8wf8AFlK/GifZMqftuQgkYu6CY/EAv+21K5ftpDxxfvSk/t+AT2Fe3dw9yyAcumZdgPETzqsbCQx+JqPsebdmyLj5Q1694KsAAWKkqB3863DXfZq19jwly/cDS0MqlcrkKgCJl3zM2aB0Yd6H4rxH7BZs4YC2/h2czl1zZnAMMPMNWdHk6nNcTvQe20u7Gi1GClLqv5Oe1iJaxa3GthxdtxBmM6GCTB18rqNZ2ovC3cLc0cWs+gkDSfkAd657doLmDt4hCCEZXzRqbbjLoekujH/DWX4FgnuMtw22a1my5gNCfTcjvtOlVirhd9DnyNxzUlaexzj/AGaJf7lswOpBgAdADPrSvGcLu2ozga7QQQa+gYTBJkEos85+lZ/2k4a5IZTNteQEsp5k9R6daMMjtKQ+Xw6UeUUAYDhwdAwuIrdDv6iuYzDEArc8x5RBQj03q6xwu4FzBJ+KyfgTpQOJxZXyXLbKw5Ezp1H+1PdvTEqo7VFK4UKsLtEASSAN4A5DtUVvXEEKxAJiO/6VW2KbZfrXRbuOcqKXnWACT9NqfT6k99hqeHXSBD2nflDQ8/ITVt7A4i3bL3PDJGwBknT0FJbmAvWCtxlA55cwDAdwDKz86OfjSsPMLo05kNr8dalxd6plLj3tMG+2N/T9D+9eor7Xa/rP+kfvXqNy9haj7i/F8c8UgJIUcj+dPOF2rpyiWCnbXSOv1qy3gbbH7y2CY1POfXn8aMF9UHkUn41BU0dSi07bDmwmkHzafWg8S15MoFy0qCCc1tmadZAIdQBt1O9GNiWNtjbBz5SVEZvPGgIJEgnTcaHcbgdHdwDeQIxHuKc4ToC0eYxEkaTttJX6FXQq4rjCbbsQcq6TEQw5g78409KzS8TKABbagxGcr5ojvzImfWt6mCRTmzFuxIy/ICguK4WxctvLCY1Mbdx09avBpaObLCT3ZiFv7gaTuBROHKjXn+VS4kttYCsCFEBVA+JZhqZ+M0LhyBqaujysuns1vs3gPEfx3jw7R8uYwGudZPJZH+Y9Vq/2t4e6YR8lxVBY3L5I815iVCgHkNAoE+6qrsKy62rZ94Ak9RVHE7aLblUAM78+elSlByldnRi8TGGPgo9e9h3sbwu5et3chRQCBLanMVOmnTymD1NOl4MMDZNw3A+J8y22y+VWYRIUzOVRPmOywIEzg8IhLhS2XmrZVMP5suadQusGN5q/H2ldSy2wtwf+oiw2moFwBdY2IO0ZeUSkoNvqCGSEOkd+9mtfjeKz+Gt67m8E3oyWTJ8UpklbRg6E7HftqNw3HYu41q4+IUubRJY27Qa27XLGa0H8MwDbu2zHNkILACQkwvEQyLnBzLlXxBqoBkrM6KsE8wJkTNEWL7pKrcLINIZF0GsEEwQNtwZ1O1DivYuvF/8Aaxja49i2FtWv3QHQlvurYuB5sxCFNB97owZ5IjQqRV+D4hiXFxBdNt1K3GVLdpWJYu1we4c1xghjqW1BGlZlggMKSMzSz6BpXzCHzaCQvIjy7SSKM4Ld8Rn0KhchBFwvLAllJaZJUhWU8tYNBpAfi6Vu/wAja9xF2Zna/NxLYdGKhlLEYjRQAQh+6WCBPniZYGguNtdxHiNcuEeHORsqTlD4ghni2CUZsLaIQEz4inzSASb91LalZMxAC6uSek89Z123OlaX2fwOSwpdFzHXaIEADbsKy6WHw2V5bVa97E+Ex1xz4VzGApnW2oa3bbxALjAPqgkOqSpgiVJzOCDTHg1slEI5iTJAEnUgAbazRGM4ZhmILW7efWGgBh6Eb+lL34dalWe4z5AQBIVRrv5QJO9bR1TtP/ZprTAAQwPX1/WuXmEGYk/zWhsBibbLC7bR0+HKqeIAIuYmTy1/k0tWW5em0GJhQBIE86Vcb4ULqj3sw2OhHoZ5ehqWE4o2XUAgfP00ruJx+ZSAPhzrbiC4yiIxh7aIq3cOxcEQUnUEzqR70dN6ZjFWraOEBQtGm0EDSOc9ZpFicVcSVzHXppPSevxmgbmILBZYk/P5012Qvj0HAwzXSzMR3YmB2E6kmnGC4LaS2GdFuNv1HaJpQuKAthefbb8vrRWBx5QRIC9Dr8aG10DFQvYyz2v7Jf8ASK9Qf/E06/Q16l5S9h/T8FaX7buZYqW0ke7m6nt6VHh2NIco2sSNwRv/AD51lb+JxVp2m2FPI7j4cjTPhV3IpuO0tvHfqYrULz2OMdiMRbuSlwLZfKzTBcEGGt2jGgfyyW93UqZMDtjiuZj4kKYkGND29aT3uJG4+p8vMcqY3OGZhIbU7D/bnTJe5nNvoSucaRQYWRMa6jTtypRjeJWnLQBmcbASZ5e6PpXeM4G5bQM1y1btwA063C07BI6bajaTHLJkZni3Op0J0Pxjarwjo5skpPqN0wDtoq7dSBPz1Jqm/Ye2wDbxMDYdqd8AwuTVyWY6fuSx/StWmFwoHiOis22oknbaaDyU6ZH9N5i06MhwvhV26ufQLBgkxMbADv8ApVt92a09q3azXBoWWDz1k8ht8jWqx+EV7Ya03hqRGgggc4/p50JwSw1mbeVpmQxWMwj3pPKJoeZaNHwvGSS+7/oQcG9l7j2GdkysxAXqqCdl5kmBvpHzjivZy8reNcU7iCrZXWCRmOUAOYAEncf01ukxTBSPKY6VczllBqcps6/0mN9Luj5hiUZWLSNI8yyA3MkgRA6kHkZqlbDshgAJpqrKyHX+6Sx15iCO9bbHYdBPlEEyazuIsWkbMqAN15xv+cfKmUrOafhuPcXtw5rgi3cQmCAYa3A0GXQk5fKBB6Gu4S4lpM/uMf8ApnQsw8uYoggCOQBBEazUC6qS6qATOuxj4b/GnvCsTauhTdRZU5QWggjy6kHpoKNe5LyXLVgvs0xcM/g3bjiSCICgkkmMxgeYkxP5aaXhKYl7ea6FRuQYmQJ/FpoY/gojDYi1bLqihQDJCqAJ5wB+lXDitpxl8yk6aqf1pZO+iO3FiUKt/boVvhxbGbR2M76rPpQV63bZSYKEbwfqBrTJiFEE/Imk2NxeWVyROxjWgi02ktluHuW7AzjzkmOhjsDoaaX3tvbztrIiOYnf41hMcrMYDajaDt+1X8ExF1WysxKbGdYHbnRlHuJDJ2NNhWRG8m3P+Hap4rDh/OGAHP8Ag1NKOL8SNlJCiNgSYZjA12pDifadyIXyyNQDtpsPU6mlqx+aSof4uwMhZoI5kakDr1G1IsIlt5bOQo6jU/D4fUUNYxzyCY7jqKPwWGS45C2tT20n1A05b1kqJtqQBiOK3PELW/INoEbfv3ohL5KAAnPz0nN+1F3+DMoJCqn+bzHsN/lSPGK6bFh1G1PoVp3sOz3P6vp/tXqQfbm/qb512gGj/9k=" alt=""
+          class="project-img"></a>
+        </div>
+
+        <div class="project project-main">
+          <div class="project-header">
+            <h3 class="project-title">God of War Ragnarök
+            </h3>
+          </div>
+
+         <a href="God of War Ragnarök.html"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png" alt=""
+          class="project-img"></a> 
+
+          <div class="project-btn">
+            <a href="#" class="github"></a>
+            <a href="#" class="site"></a>
+          </div>
+        </div>
+
+        <div class="project">
+          <div class="project-header">
+            <h3 class="project-title">... Ghost of Tsushima
+            </h3>
+          </div>
+
+         <a href="Ghost of Tsushima.html"><img src="https://m.media-amazon.com/images/I/71trf+bZ3DL._AC_SL1200_.jpg" alt="" class="project-img"></a> 
+        </div>
+      </div>
+    </div>
+
+    <div class="card-m">
+      <section class="top-container">
+        <header class="showcase">
+          <h1> Your Web Presence </h1>
+          <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus itaque porro sequi, at dolor
+            mollitia.
+          </p>
+        </header>
+
+        <div class="top-box top-box-a">
+         <a href="Rocket League.html"><img
+          src="https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S3_2560x1440-1434001758900f513cab0c885121744a"
+          alt="Descrição da imagem"></a> 
+        </div>
+
+        <div class="top-box top-box-b">
+         <a href="Dead Island 2.html"><img
+          src="https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S1_2560x1440-fdc688ce46680914ee3c4a7949ce8a67"
+          alt="Descrição da imagem"></a> 
+        </div>
+      </section>
+
+      <section class="portfolio">
+
+       <a href="Red Dead Redemption.html"><img src="https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"></a> 
+       <a href="Grand Theft Auto V.html"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202202/2811/x9SuHZAiRn0uJXB1IKteIgcw.png"></a> 
+       <a href="Elden Ring.html"> <img src="https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png"></a>
+       <a href="The Witcher.html"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png"></a> 
+      <a href="Brawlhalla.html"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202301/1322/rlnCzcJsj2Bk6yW8QclFcfIP.png"></a>
+        <a href="Fifa23.html"><img
+          src="https://s2-ge.glbimg.com/X2ekmGBfM9OREbo5HNLplK6MMxc=/0x0:1080x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/1/B/SBTBdDQaGDkYQlfFRuVg/fifa-23-mbappe-kerr-ultimate-edition-2.jpg"></a>
+        <a href="Incursão Heroica.html"><img
+          src="https://i0.wp.com/cebolaverde.com.br/wp-content/uploads/2022/11/Gotham-Knights.jpg?fit=1024%2C1024&ssl=1"></a>
+        <a href="GRID Legends.html"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202112/1519/xSgI7hnVOBnZkz3p6qx2j8T8.png"></a>
+      </section>
+      
+    </div>
+
+    <li id="l11"></li><a href="comentario.html"><div class="comentario"></div></a>
+  </main>
+
+  <footer>
+    <div id="tagRodape"></div>
+  </footer>
+
+  <script src="Home.js"></script>
+
+</body>
+
+</html>
