@@ -223,7 +223,39 @@ Para da criação do site GamingSphere, foi necessário um time em desenvolvimen
 <a href="https://ibb.co/9yw0YJV"><img src="https://i.ibb.co/QY8VmZC/User-Flow.png" alt="User-Flow" border="0"></a><br /><br />
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
+> um usuário deve realizar para utilizar todas as características do seu sistema.
+> 
+## Soluções
+
+A Solução Implementada para o site Gaming Sphere,é um software robusto que oferece diversas funcionalidades para a divulgação de notícias sobre jogos e eventos do mundo dos jogos. Aqui estão algumas das funcionalidades-chave do site:
+
+Página Inicial:
+
+Apresenta uma visão geral das notícias mais recentes e populares no mundo dos jogos.
+Destaca eventos importantes e próximos, como lançamentos de jogos, competições e convenções.
+
+Categorias de Jogos:
+
+Organiza as notícias por categorias, como jogos de ação, RPG, esportes eletrônicos, entre outros.
+Permite aos usuários navegar facilmente pelas notícias de seus jogos favoritos.
+
+Perfil de Usuário:
+
+Permite que os usuários criem perfis personalizados para salvar notícias favoritas e receber recomendações personalizadas.
+Oferece opções de personalização, como seleção de jogos favoritos e configurações de notificações.
+Comentários e Avaliações:
+
+Permite que os usuários comentem e discutam notícias, compartilhem opiniões e interajam com outros jogadores.
+Fornece um sistema de avaliação para os usuários darem feedback sobre as notícias e compartilharem suas opiniões sobre os jogos.
+Calendário de Eventos:
+
+Apresenta um calendário com os principais eventos relacionados a jogos, incluindo lançamentos, torneios e feiras.
+Permite que os usuários visualizem detalhes, datas e locais dos eventos, além de poderem salvar eventos em sua agenda pessoal.
+Notificações:
+
+Integração com Redes Sociais:
+A criação de redes sociais que aproximem mais o usuário do nome Gaming Sphere e de seus conteúdos.
+Possibilita que os usuários compartilhem notícias e eventos nas redes sociais, ampliando o alcance do site e incentivando o engajamento da comunidade.
 
 
 ## Conclusões
